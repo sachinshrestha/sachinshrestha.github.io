@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Sachin Shrestha
+title: What determines whether someone earns more than 50k?
 published: true
 date: 2015-11-09
 categories: [blogging]
 tags: [blogging]
 ---
 
-What determines whether someone earns more than 50k?
+This is just a test page.
+
