@@ -6,8 +6,7 @@ date: 2015-11-09
 categories: [blogging]
 tags: [blogging]
 ---
-
-<img align="center" src="sachinshrestha.github.io/images/census.jpg"/>
+![an image alt text]({{ site.baseurl }}/images/census.jpg "census")
 <br>
 We all keep wondering what factors play a role in a person's annual income. We may think of hundreds of reasons, but are there that many?
 
