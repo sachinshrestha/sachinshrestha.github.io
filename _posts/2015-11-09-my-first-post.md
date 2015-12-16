@@ -9,3 +9,5 @@ tags: [blogging]
 
 This is just a test page.
 
+  Here's some highlight.
+
