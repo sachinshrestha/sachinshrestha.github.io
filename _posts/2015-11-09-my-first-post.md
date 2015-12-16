@@ -5,6 +5,7 @@ published: true
 date: 2015-11-09
 categories: [blogging]
 tags: [blogging]
+featured_image: {{ site.baseurl }}/images/census.jpg
 ---
 ![an image alt text]({{ site.baseurl }}/images/census.jpg)
 <br>
