@@ -18,13 +18,14 @@ html {
 }
 
 body {
-	background: $gray;
+	background: #d3d3d3;
 	font: 18px/1.4 $helvetica;
 	color: $darkGray;
 }
 
 title {
 	font: 30px $georgia;
+	color: $red;
 }
 
 .container {
