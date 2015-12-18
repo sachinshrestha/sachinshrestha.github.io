@@ -18,13 +18,14 @@ html {
 }
 
 body {
-	background: $grey;
+	background: $green;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .title { 
-	color: red; font: 12px tahoma;
+	color: red; 
+	font: 12px $tahoma;
 } 
 
 .container {
@@ -112,6 +113,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  align: middle;
 }
 
 // Fixes images in popup boxes from Google Translate
