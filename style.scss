@@ -24,8 +24,9 @@ body {
 }
 
 .title { 
+	font_family:$tahoma;
 	color: red; 
-	font: 12px $tahoma;
+	font: 30px;
 } 
 
 .container {
@@ -35,7 +36,11 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+	forn-family:georgia
+} 
+
+h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
@@ -113,7 +118,6 @@ strong, b {
 
 img {
   max-width: 100%;
-  align: middle;
 }
 
 // Fixes images in popup boxes from Google Translate
