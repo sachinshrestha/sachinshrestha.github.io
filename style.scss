@@ -14,13 +14,13 @@
 /**************/
 
 html {
-  font-size: 100%;
+	font-size: 100%;
 }
 
 body {
 	background: $green;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	font: 18px/1.4 $helvetica;
+	color: $darkGray;
 }
 
 title { 
@@ -29,10 +29,10 @@ title {
 } 
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+	margin: 0 auto;
+	max-width: 740px;
+	padding: 0 10px;
+	width: 100%;
 }
 
 h1 {
@@ -54,9 +54,10 @@ h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+	font-family: $georgia;
+	font-size: 30px;
   a {
-    color: inherit;
+  	color: inherit;
   }
 }
 
