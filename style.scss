@@ -23,11 +23,6 @@ body {
 	color: $darkGray;
 }
 
-title { 
-	font: 30px $tahoma;
-	color: red; 
-} 
-
 .container {
 	margin: 0 auto;
 	max-width: 740px;
@@ -51,10 +46,21 @@ h2, h3, h4, h5, h6 {
 
 h1 {
 	font-family: $georgia;
+	color: $darkerGray;
+	font-weight: bold;
+	line-height: 1.7;
+	margin: 1em 0 15px;
+	padding: 0;
 	font-size: 30px;
-  a {
-  	color: inherit;
-  }
+	
+	@include mobile {
+		line-height: 1.4;
+		
+	}
+	
+	a {
+		color: inherit;
+	}
 }
 
 h2 {
