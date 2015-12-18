@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $green;
+	background: $gray;
 	font: 18px/1.4 $helvetica;
 	color: $darkGray;
 }
@@ -30,7 +30,7 @@ body {
 	width: 100%;
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
@@ -45,22 +45,7 @@ h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-family: $georgia;
-	color: $darkerGray;
-	font-weight: bold;
-	line-height: 1.7;
-	margin: 1em 0 15px;
-	padding: 0;
 	font-size: 30px;
-	
-	@include mobile {
-		line-height: 1.4;
-		
-	}
-	
-	a {
-		color: inherit;
-	}
 }
 
 h2 {
