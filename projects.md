@@ -2,7 +2,7 @@
 title: My Projects
 permalink: /projects/
 layout: page
-sitemap: false 
+sitemap: true
 ---
 
 Here's the code to my <a href="http://sachinshrestha.github.io/freelancerFinal.html"> Census Project </a>
