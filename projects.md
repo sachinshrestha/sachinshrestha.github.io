@@ -5,4 +5,4 @@ layout: page
 sitemap: false 
 ---
 
-Here's the code to my <http://sachinshrestha.github.io/freelancerFinal.html> Census Project </a>
+Here's the code to my <a href="http://sachinshrestha.github.io/freelancerFinal.html"> Census Project </a>
