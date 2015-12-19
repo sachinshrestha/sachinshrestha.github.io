@@ -5,4 +5,4 @@ layout: page
 sitemap: false 
 ---
 
-This is the placeholder page for my projects.
+Here's the code to my <a href="sachinshrestha.github.io/freelancerFinal.html"> Census Project </a>
