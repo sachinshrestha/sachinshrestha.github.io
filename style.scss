@@ -114,7 +114,9 @@ table, th, td {
 	border-collapse:collapse;
 	color:#000000;
 	width:100%;
-	font: 10px/1.4 $helvetica;
+	cellpadding:5;
+	
+	font: 12px/1.4 $helvetica;
 }
 
 // Fixes images in popup boxes from Google Translate
