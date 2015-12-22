@@ -38,6 +38,11 @@ table, td, th {
 	font-size: 15px;
 }
 
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
 tr:nth-child(even){
 	background-color: #f2f2f2;
 }
