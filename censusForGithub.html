@@ -258,9 +258,7 @@ test &lt;- subset(census, split==FALSE)
 <h4>Use the training dataset to build the CART model.</h4>
 
 <pre class="r"><code>
-censusTree &lt;- rpart(fiftyKPlus ~age + workclass + education + maritalstatus + occupation +     
-                      relationship + race + sex + capitalgain + capitalloss + hoursperweek + 
-                      nativecountry,
+censusTree &lt;- rpart(fiftyKPlus ~age + workclass + education + maritalstatus + occupation + relationship + race + sex + capitalgain + capitalloss + hoursperweek + nativecountry,
                     data = train,
                     method ='class')
 </pre></code>
@@ -281,8 +279,7 @@ predictTest.CensusTree &lt;- predict(censusTree, newdata=test, type='class')
 <pre class="r"><code>
 confusionMatrix.CensusTree &lt;- table(test$fiftyKPlus, predictTest.CensusTree)
 
-accuracy.CensusTree &lt;- (confusionMatrix.CensusTree[1,1] + 
-                         confusionMatrix.CensusTree[2,2])/sum(confusionMatrix.CensusTree)
+accuracy.CensusTree &lt;- (confusionMatrix.CensusTree[1,1] + confusionMatrix.CensusTree[2,2])/sum(confusionMatrix.CensusTree)
 
 sprintf('The accurary of the CART model is: %f', accuracy.CensusTree)</code></pre>
 
