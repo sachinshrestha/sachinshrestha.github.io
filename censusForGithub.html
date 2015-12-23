@@ -1,3 +1,8 @@
+----
+layout: page
+---
+
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -267,15 +272,15 @@ prp(censusTree, type=1, compress=FALSE, box.col=c('yellow', 'pink')[censusTree$f
 <h4>Score the model using the test set data, ie. use the CART model to predict the the label using test dataset.</h4>
 
 <pre class="r"><code>
-predictTest.CensusTree = predict(censusTree, newdata=test, type='class')
+predictTest.CensusTree &lt;- predict(censusTree, newdata=test, type='class')
 </pre></code>
 
 <br>
 <h4>Build a <i>Confusion Matrix</i> and compute the accuracy of the CART model on test dataset.</h4>
 <pre class="r"><code>
-confusionMatrix.CensusTree = table(test$fiftyKPlus, predictTest.CensusTree)
+confusionMatrix.CensusTree &lt;- table(test$fiftyKPlus, predictTest.CensusTree)
 
-accuracy.CensusTree = (confusionMatrix.CensusTree[1,1] + 
+accuracy.CensusTree &lt;- (confusionMatrix.CensusTree[1,1] + 
                          confusionMatrix.CensusTree[2,2])/sum(confusionMatrix.CensusTree)
 
 sprintf('The accurary of the CART model is: %f', accuracy.CensusTree)</code></pre>
@@ -286,13 +291,13 @@ sprintf('The accurary of the CART model is: %f', accuracy.CensusTree)</code></pr
 <h4>Performance of the CART model: Compute the area under the ROC curve.</h4>
 
 <pre class="r"><code>
-predictTest.CensusTree2 = predict(censusTree, newdata=test)
+predictTest.CensusTree2 &lt;- predict(censusTree, newdata=test)
 
-predictTest.CensusTree3 = predictTest.CensusTree2[,2]
+predictTest.CensusTree3 &lt;- predictTest.CensusTree2[,2]
 
-censusTree.ROCR = prediction(predictTest.CensusTree3, test$fiftyKPlus)
+censusTree.ROCR &lt;- prediction(predictTest.CensusTree3, test$fiftyKPlus)
 
-perf.censusTree.ROCR = performance(censusTree.ROCR, 'tpr','fpr')
+perf.censusTree.ROCR &lt;- performance(censusTree.ROCR, 'tpr','fpr')
 </pre></code>
 
 <br>
@@ -308,7 +313,7 @@ plot(perf.censusTree.ROCR, main='ROC Curve for CART Model',
 <h4>Find the are under the ROC curve.</h4>
 
 <pre class="r"><code>
-auc.censusTree = as.numeric(performance(censusTree.ROCR, 'auc')@y.values)
+auc.censusTree &lt;- as.numeric(performance(censusTree.ROCR, 'auc')@y.values)
 sprintf('The area under the ROC curve for the CART Model is: %f',auc.censusTree)</code></pre>
 <pre><code>The area under the ROC curve for the CART Model is: 0.846746</code></pre>
 
