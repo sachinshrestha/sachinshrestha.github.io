@@ -472,7 +472,7 @@ set.seed(6789)
 <br>
 <h4>Use the training dataset to build the Random Forest model.</h4>
 <pre class="r"><code>
-censusRF = randomForest(fiftyKPlus ~age + workclass + education + maritalstatus +
+censusRF &lt;- randomForest(fiftyKPlus ~age + workclass + education + maritalstatus +
                         occupation + relationship + race + sex + capitalgain +
                         capitalloss + hoursperweek + nativecountry,
                         data=train)
@@ -480,14 +480,14 @@ censusRF = randomForest(fiftyKPlus ~age + workclass + education + maritalstatus 
 <br>
 <h4>Use the Random Forest model to predict the outcome of the test dataset.</h4>
 <pre class="r"><code>
-predict.censusRF = predict(censusRF, newdata=test)
+predict.censusRF &lt;- predict(censusRF, newdata=test)
 </pre></code>
 <br>
 <h4>Build Confusion Matrix and compute the accuracy of the Random Forest model on the test dataset.</h4>
 <pre class="r"><code>
-confusionMatrix = table(test$fiftyKPlus, predict.censusRF)
+confusionMatrix &lt;- table(test$fiftyKPlus, predict.censusRF)
 
-accuracy.censusRF = (confusionMatrix[1,1] + confusionMatrix[2,2])/sum(confusionMatrix)
+accuracy.censusRF &lt;- (confusionMatrix[1,1] + confusionMatrix[2,2])/sum(confusionMatrix)
 
 sprintf('The accurary of the RANDOM FOREST model is: %f', accuracy.censusRF)</code></pre>
 <pre><code>The accurary of the RANDOM FOREST model is: 0.825580</code></pre>
