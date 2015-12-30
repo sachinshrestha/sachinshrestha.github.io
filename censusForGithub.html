@@ -262,7 +262,9 @@ test &lt;- subset(census, split==FALSE)
 <h4>Use the training dataset to build the CART model.</h4>
 
 <pre class="r"><code>
-censusTree &lt;- rpart(fiftyKPlus ~age + workclass + education + maritalstatus + occupation + relationship + race + sex + capitalgain + capitalloss + hoursperweek + nativecountry,
+censusTree &lt;- rpart(fiftyKPlus ~age + workclass + education + maritalstatus + occupation +
+                      relationship + race + sex + capitalgain + capitalloss + hoursperweek +
+                      nativecountry,
                     data = train,
                     method ='class')
 </pre></code>
@@ -333,8 +335,9 @@ cartGrid = expand.grid(.cp=seq(0.0001,0.01,0.0002))
 <br>
 <h4>Train to find the optimum complexity parameter (cp).</h4>
 <pre class="r"><code>
-cpTable=train(fiftyKPlus ~age + workclass + education + maritalstatus + occupation + relationship +
-        race + sex + capitalgain + capitalloss + hoursperweek + nativecountry,
+cpTable=train(fiftyKPlus ~age + workclass + education + maritalstatus + occupation +
+              relationship + race + sex + capitalgain + capitalloss + hoursperweek +
+              nativecountry,
       data = train,
       method = 'rpart',
       trControl = fitControl,
@@ -410,8 +413,10 @@ The final value used for the model was cp = 0.0013.</code></pre>
 
 <br>
 <h4>Use the optimum cp value to build the cart model with Cross Validation.</h4>
-<pre class="r"><code>censusTreeCV &lt;- rpart(fiftyKPlus ~age + workclass + education + maritalstatus + occupation + relationship +
-                     race + sex + capitalgain + capitalloss + hoursperweek + nativecountry,
+<pre class="r"><code>
+censusTreeCV &lt;- rpart(fiftyKPlus ~age + workclass + education + maritalstatus + occupation +
+                         relationship + race + sex + capitalgain + capitalloss + hoursperweek +
+                         nativecountry,
                    data = train,
                    method ='class',
                    control = rpart.control(cp=cpTable$results$cp[which.max(cpTable$results[,2])]))
@@ -453,6 +458,35 @@ plot(perf.CensusTreeCV.ROC, main='ROC Curve for CART Model with Cross Validation
 sprintf('The area under the ROC curve for the CART Model with Cross Validation is: %f',auc.CensusTreeCV)</code></pre>
 <pre><code>The area under the ROC curve for the CART Model with Cross Validation is: 0.871933</code></pre>
 
+<br>
+<br>
+<br>
+<h4>BUILD A RANDOM FOREST MODEL</h4>
+<br>
+<pre class="r"><code>
+set.seed(6789)
+</pre></code>
+<br>
+<h4>Use the training dataset to build the Random Forest model.</h4>
+<pre class="r"><code>
+censusRF = randomForest(fiftyKPlus ~age + workclass + education + maritalstatus + occupation +
+                        relationship + race + sex + capitalgain + capitalloss + hoursperweek +
+                        nativecountry,
+                        data=train)
+</pre></code>
+<br>
+<h4>Use the Random Forest model to predict the outcome of the test dataset.</h4>
+<pre class="r"><code>
+predict.censusRF = predict(censusRF, newdata=test)
+</pre></code>
+<br>
+<h4>Build Confusion Matrix and compute the accuracy of the Random Forest model on the test dataset.</h4>
+<pre class="r"><code>
+confusionMatrix = table(test$fiftyKPlus, predict.censusRF)
+
+accuracy.censusRF = (confusionMatrix[1,1] + confusionMatrix[2,2])/sum(confusionMatrix)
+sprintf('The accurary of the RANDOM FOREST model is: %f', accuracy.censusRF)</code></pre>
+<pre><code>The accurary of the RANDOM FOREST model is: 0.825580</code></pre>
 
 </div>
 
