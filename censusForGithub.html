@@ -415,8 +415,8 @@ The final value used for the model was cp = 0.0013.</code></pre>
 <h4>Use the optimum cp value to build the cart model with Cross Validation.</h4>
 <pre class="r"><code>
 censusTreeCV &lt;- rpart(fiftyKPlus ~age + workclass + education + maritalstatus + occupation +
-                         relationship + race + sex + capitalgain + capitalloss + hoursperweek +
-                         nativecountry,
+                         relationship + race + sex + capitalgain + capitalloss +
+                         hoursperweek + nativecountry,
                    data = train,
                    method ='class',
                    control = rpart.control(cp=cpTable$results$cp[which.max(cpTable$results[,2])]))
@@ -469,9 +469,9 @@ set.seed(6789)
 <br>
 <h4>Use the training dataset to build the Random Forest model.</h4>
 <pre class="r"><code>
-censusRF = randomForest(fiftyKPlus ~age + workclass + education + maritalstatus + occupation +
-                        relationship + race + sex + capitalgain + capitalloss + hoursperweek +
-                        nativecountry,
+censusRF = randomForest(fiftyKPlus ~age + workclass + education + maritalstatus +
+                        occupation + relationship + race + sex + capitalgain +
+                        capitalloss + hoursperweek + nativecountry,
                         data=train)
 </pre></code>
 <br>
