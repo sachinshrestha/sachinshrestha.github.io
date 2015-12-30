@@ -150,6 +150,9 @@ str(census)</code></pre>
 ##  $ nativecountry: Factor w/ 41 levels &quot; Cambodia&quot;,&quot; Canada&quot;,..: 39 39 39 39 5 39 23 39 39 39 ...
 ##  $ fiftyKPlus   : Factor w/ 2 levels &quot; &lt;=50K&quot;,&quot; &gt;50K&quot;: 1 1 1 1 1 1 1 2 2 2 ...</code></pre>
 <br>
+<h4>The variable <i>educationnum</i> is a numerical representation of the variable <i>education</i>. Therefore, for the 
+purpose of building models, I will use the variable <i>education</i> and will not use the variable <i>educationnum</i>.</h4>
+<br>
 <h4>Look at the summary of dataframe; notice missing values and any abnormal distributions.</h4>
 <pre class="r"><code>
 summary(census)</code></pre>
@@ -257,7 +260,7 @@ test &lt;- subset(census, split==FALSE)
 </code></pre>
 <br>
 <br>
-<h3>CLASSIFICATION AND REGRESSION TREE (CART) MODEL</h3>
+<h3><center>CLASSIFICATION AND REGRESSION TREE (CART) MODEL</center></h3>
 <br>
 <h4>Use the training dataset to build a CART model.</h4>
 
@@ -326,7 +329,7 @@ sprintf('The area under the ROC curve for the CART Model is: %f',auc.censusTree)
 <br>
 <br>
 <br>
-<h3>CART MODEL WITH CROSS VALIDATION</h3>
+<h3><center>CART MODEL WITH CROSS VALIDATION</center></h3>
 <br>
 <h4>Create a 10-fold cross validation model.</h4>
 <pre class="r"><code>
@@ -464,7 +467,7 @@ sprintf('The area under the ROC curve for the CART Model with Cross Validation i
 <br>
 <br>
 <br>
-<h4>RANDOM FOREST MODEL</h4>
+<h4><center>RANDOM FOREST MODEL</center></h4>
 <br>
 <pre class="r"><code>
 set.seed(6789)
@@ -495,7 +498,7 @@ sprintf('The accurary of the RANDOM FOREST model is: %f', accuracy.censusRF)</co
 <br>
 <br>
 <br>
-<h3>LOGICTIC REGRESSION MODEL</h3>
+<h3><center>LOGICTIC REGRESSION MODEL</center></h3>
 <br>
 <h4>Build a Logistic Regression model using the training dataset.</h4>
 
