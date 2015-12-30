@@ -318,6 +318,7 @@ plot(perf.censusTree.ROCR, main='ROC Curve for CART Model',
 
 <pre class="r"><code>
 auc.censusTree &lt;- as.numeric(performance(censusTree.ROCR, 'auc')@y.values)
+
 sprintf('The area under the ROC curve for the CART Model is: %f',auc.censusTree)</code></pre>
 <pre><code>The area under the ROC curve for the CART Model is: 0.846746</code></pre>
 
@@ -432,7 +433,9 @@ prp(censusTreeCV, type=1, compress=FALSE, box.col=c('yellow', 'pink')[censusTree
 <h4>Build a Confusion Matrix and compute the accuracy of the CART model with Cross Validation on test dataset.</h4>
 <pre class="r"><code>predict.CensusTreeCV &lt;- predict(censusTreeCV, newdata=test, type='class')
 confusionMatrix &lt;- table(test$fiftyKPlus, predict.CensusTreeCV)
+
 accuracy.CensusTreeCV &lt;- (confusionMatrix[1,1] + confusionMatrix[2,2])/sum(confusionMatrix)
+
 sprintf('The accurary of the CART model with Cross Validation is: %f', accuracy.CensusTreeCV)</code></pre>
 <pre><code>The accurary of the CART model with Cross Validation is: 0.862403</code></pre>
 <br>
@@ -485,6 +488,7 @@ predict.censusRF = predict(censusRF, newdata=test)
 confusionMatrix = table(test$fiftyKPlus, predict.censusRF)
 
 accuracy.censusRF = (confusionMatrix[1,1] + confusionMatrix[2,2])/sum(confusionMatrix)
+
 sprintf('The accurary of the RANDOM FOREST model is: %f', accuracy.censusRF)</code></pre>
 <pre><code>The accurary of the RANDOM FOREST model is: 0.825580</code></pre>
 
