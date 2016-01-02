@@ -86,7 +86,7 @@ Source: UCI Machine Learning Laboratory
 <h4>Install and load required packages.
 <br>
 <br>
-Package 'caTools' is required for splitting the data into training and testing datasets. </h4>
+Package *caTools* is required for splitting the data into training and testing datasets. </h4>
 
 <pre class="r"><code>
 if(!require(caTools)){
@@ -96,7 +96,7 @@ library(caTools)
 </code></pre>
 
 <br>
-<h4> CART (Classification and regression tree) models require rpart and rpart.plot packages.</h4>
+<h4> CART (Classification and regression tree) models require *rpart* and *rpart.plot* packages.</h4>
 <pre class="r"><code>
 if(!require(rpart)){
   install.packages('rpart')
@@ -110,13 +110,15 @@ if(!require(rpart.plot)){
 library(rpart.plot)</code></pre>
 
 <br>
-<h4> ROCR package is required to evaluate the perormance of models and to plot the Receiver Operating Characteristic (ROC) curves.</h4>
+<h4> *ROCR* package is required to evaluate the perormance of models and to plot the Receiver Operating Characteristic (ROC) curves.</h4>
 <pre class="r"><code>
 if(!require(ROCR)){
   install.packages('ROCR')
 }
 library(ROCR)</code></pre>
 
+<br>
+<h4>Packages *caret* and *e1071* are required for cross-validation.</h4>
 <pre class="r"><code>
 if(!require(caret)){
   install.packages('caret')
@@ -128,6 +130,14 @@ if(!require(e1071)){
   install.packages('e1071')
 }
 library(e1071)</code></pre>
+
+<br>
+<h4>Random Forest models require the randomForest package.</h4>
+<pre class="r"><code>
+if(!require(randomForest)){
+  install.packages('randomForest')
+}
+library(randomForest)</code></pre>
 
 <br>
 <h4>Set the working directory and read data into dataframe.</h4>
