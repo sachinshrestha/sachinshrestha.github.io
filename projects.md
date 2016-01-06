@@ -17,7 +17,7 @@ sitemap: false
                            </ul>
          <br>
          Programming language: R
-         <br>
+         <br><br>
          Code is available <a href="http://sachinshrestha.github.io/census.html">here</a>.
          <br><br><br>
 
@@ -29,7 +29,7 @@ sitemap: false
                            </ul>
          <br>
          Programming language: R
-         <br>
+         <br><br>
         Code is available <a href="http://sachinshrestha.github.io/frequentFlyer.html">here</a>.
          <br><br><br>
    </ol>
