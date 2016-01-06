@@ -5,8 +5,8 @@ layout: page
 sitemap: false
 ---
    <br>
-   1. <b>CENSUS PROJECT</b>         
-         Algorithms used:  
+   1. <b>CENSUS PROJECT</b>
+      <t>Algorithms used:</t>
                            <ul>
                            <li>CART (Classification and Regression Trees)</li>
                            <li>CART with Cross-Validation</li>
@@ -14,7 +14,7 @@ sitemap: false
                            <li>Logistic Regression</li>
                            </ul>
          <br>
-         Programming language: R          
+         Programming language: R
          <br>
          Code is available <a href="http://sachinshrestha.github.io/census.html">here</a>.
          <br><br><br>
@@ -25,7 +25,7 @@ sitemap: false
                            <li>Clustering (Hierarchical)</li>
                            </ul>
          <br>
-         Programming language: R  
+         Programming language: R
          <br>
         Code is available <a href="http://sachinshrestha.github.io/frequentFlyer.html">here</a>.
          <br><br>
