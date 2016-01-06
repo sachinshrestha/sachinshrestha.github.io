@@ -5,8 +5,10 @@ layout: page
 sitemap: false
 ---
    <br>
-   1. <b>CENSUS PROJECT</b><br>
-      <t>Algorithms used:</t>
+   <ol>
+   <li><b>CENSUS PROJECT</b></li>
+   <br>
+      Algorithms used:</t>
                            <ul>
                            <li>CART (Classification and Regression Trees)</li>
                            <li>CART with Cross-Validation</li>
@@ -19,7 +21,8 @@ sitemap: false
          Code is available <a href="http://sachinshrestha.github.io/census.html">here</a>.
          <br><br><br>
 
-   2. <b>FREQUENT FLYER MARKET SEGMETATION PROJECT</b><br>
+   <li><b>FREQUENT FLYER MARKET SEGMETATION PROJECT</b></li>
+   <br>
         Algorithm used:       
                            <ul>
                            <li>Clustering (Hierarchical)</li>
@@ -28,4 +31,5 @@ sitemap: false
          Programming language: R
          <br>
         Code is available <a href="http://sachinshrestha.github.io/frequentFlyer.html">here</a>.
-         <br><br>
+         <br><br><br>
+   </ol>
