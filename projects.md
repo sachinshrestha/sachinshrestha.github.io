@@ -4,7 +4,7 @@ permalink: /projects/
 layout: page
 sitemap: false
 ---
-
+   <br>
    1. <b>CENSUS PROJECT</b>         
          Algorithms used:  
                            <ul>
@@ -17,7 +17,8 @@ sitemap: false
          Programming language: R          
          <br>
          Code is available <a href="http://sachinshrestha.github.io/census.html">here</a>.
-         <br><br>
+         <br><br><br>
+
    2. <b>FREQUENT FLYER MARKET SEGMETATION PROJECT</b><br>
         Algorithm used:       
                            <ul>
