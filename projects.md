@@ -5,7 +5,7 @@ layout: page
 sitemap: false
 ---
    <br>
-   1. <b>CENSUS PROJECT</b>
+   1. <b>CENSUS PROJECT</b><br>
       <t>Algorithms used:</t>
                            <ul>
                            <li>CART (Classification and Regression Trees)</li>
