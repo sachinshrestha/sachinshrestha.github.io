@@ -16,7 +16,7 @@ sitemap: false
          <br>
          Programming language: R          
          <br>
-         Code URL: Find code <a href="http://sachinshrestha.github.io/census.html">here</a>.
+         Code is available <a href="http://sachinshrestha.github.io/census.html">here</a>.
          <br><br>
    2. <b>FREQUENT FLYER MARKET SEGMETATION PROJECT</b><br>
         Algorithm used:       
@@ -26,5 +26,5 @@ sitemap: false
          <br>
          Programming language: R  
          <br>
-        Code URL: Find code <a href="http://sachinshrestha.github.io/frequentFlyer.html">here</a>.
+        Code is available <a href="http://sachinshrestha.github.io/frequentFlyer.html">here</a>.
          <br><br>
