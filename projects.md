@@ -7,11 +7,10 @@ sitemap: false
 
    1. Census project  
    
-        Algorithms used:      * CART (Classification and Regression Trees)
-                              * CART with Cross-Validation
-                              * Random Forest
-                              * Logistic Regression   
-                              
+        Algorithms used:      *  CART (Classification and Regression Trees)
+                              *  CART with Cross-Validation
+                              *  Random Forest
+                              *  Logistic Regression   
         Programming language: R  
 
         Code URL:             <a href="http://sachinshrestha.github.io/census.html">http://sachinshrestha.github.io/census.html</a>
