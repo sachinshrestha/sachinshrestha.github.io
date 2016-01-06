@@ -5,8 +5,7 @@ layout: page
 sitemap: false
 ---
 
-   1. Census project     
-   
+   1. Census project          
          Algorithms used:     *  CART (Classification and Regression Trees)
                               *  CART with Cross-Validation
                               *  Random Forest
