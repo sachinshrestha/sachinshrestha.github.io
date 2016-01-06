@@ -5,7 +5,7 @@ layout: page
 sitemap: false
 ---
 
-   1. <b>Census project</b><br>          
+   1. <b>CENSUS PROJECT</b>         
          Algorithms used:  
                            <ul>
                            <li>CART (Classification and Regression Trees)</li>
@@ -16,9 +16,9 @@ sitemap: false
          <br>
          Programming language: R          
          <br>
-         Code URL:             <a href="http://sachinshrestha.github.io/census.html">http://sachinshrestha.github.io/census.html</a>
+         Code URL: Find code <a href="http://sachinshrestha.github.io/census.html">here</a>.
          <br><br>
-   2. <b>Frequent Flyer Market Segmentation project</b><br>
+   2. <b>FREQUENT FLYER MARKET SEGMETATION PROJECT</b><br>
         Algorithm used:       
                            <ul>
                            <li>Clustering (Hierarchical)</li>
@@ -26,5 +26,5 @@ sitemap: false
          <br>
          Programming language: R  
          <br>
-        Code URL:             <a href="http://sachinshrestha.github.io/frequentFlyer.html">http://sachinshrestha.github.io/frequentFlyer.html</a>
+        Code URL: Find code <a href="http://sachinshrestha.github.io/frequentFlyer.html">here</a>.
          <br><br>
