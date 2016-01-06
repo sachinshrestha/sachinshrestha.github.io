@@ -6,7 +6,7 @@ date: 2015-11-25
 categories: [blogging]
 tags: [blogging]
 ---
-<center>![an image alt text]({{ site.baseurl }}/images/census.jpg)</center>
+<center>![an image alt text]({{ site.baseurl }}/images/frequentFlyer.jpg)</center>
 
 <br>
 <br>
@@ -14,90 +14,49 @@ tags: [blogging]
 <br>
 <br>
 <font face="georgia">
-We all keep wondering what factors play a role in a person's annual income. We may think of hundreds of factors, but are there that many?
+The data for this project is taken from www.dataminingbook.com.
 
-Here I use publicly available census data (source: UCI Machine Learning Laboratory) to find what factors actually determine whether someone earns more than 50K annually.
-
-The census dataframe used for this project contains 13 variables - 12 independent variables (<i>features</i>) and one dependent variable (<i>label</i>).  The variables are shown in the table below.
-
-The variable <i>fiftyKPlus</i> is the variable to be predicted. So, it is the dependent variable. The remaining 12 variables are used to predict the dependent variable.
+The airlines dataframe used for this project contains 7 variables. All of the 12 variables are integers. The variables are shown in the table below.
 
 <table border="1" style="background-color:#FFFFCC;border-collapse:collapse;border:1px;color:#000000;width:100%" cellpadding="5" cellspacing="3">
 	<tr>
 		<th>Name of Variable</th>
 		<th>Variable Type</th>
-		<th>Values</th>
+		<th>Description</th>
 	</tr>
 	<tr>
-		<td>age</td>
-		<td>continuous</td>
-		<td>17 - 90 years</td>
+		<td>Balance</td>
+		<td>Integer</td>
+		<td>Frequent flyer points earned so far</td>
 	</tr>
 	<tr>
-		<td>workclass</td>
-		<td>categorical</td>
-		<td>Federal-gov, Local-gov, Never-worked, <br>Private, Self-emp-inc, Self-emp-not-inc, <br>State-gov, Without-pay 
-    </td>
+		<td>QualMiles</td>
+		<td>Integer</td>
+		<td>??</td>
 	</tr>
 	<tr>
-		<td>education</td>
-		<td>categorical</td>
-		<td>Preschool, 1st-4th, 5th-6th, 7th-8th, 9th, 10th, 11th, 12th, <br>HS-Grad, Assoc-acdm, Assoc-voc, Prof-school, Some-college,           <br>Bachelors, Masters, Doctorate
-		</td>
+		<td>BonusMiles</td>
+		<td>Integer</td>
+		<td>Miles earned from non-flight transactions</td>
 	</tr>
 	<tr>
-		<td>maritalstatus</td>
-		<td>categorical</td>
-		<td>Divorced, Married-AF-spouse, Married-civ-spouse, <br>Married-spouse-absent, Never-married, <br>Separated, Widowed
-</td>
+		<td>BonusTrans</td>
+		<td>Number of non-flight transactions</td>
 	</tr>
 	<tr>
-		<td>occupation</td>
-		<td>categorical</td>
-		<td> Adm-clerical, Armed-Forces, Craft-repair, <br>Exec-managerial, Farming-fishing, Handlers-cleaners, <br>  Other-service, Priv-house-serv, Prof-specialty, <br>Protective-serv, Sales, Tech-support, Transport-moving
-		</td>
+		<td>FlightMiles</td>
+		<td>Integer</td>
+		<td>Miles earned from flight transactions</td>
 	</tr>
 	<tr>
-		<td>relationship</td>
-		<td>categorical</td>
-		<td>Unmarried, Husband, Wife, Not-in-family, Other-relative</td>
+		<td>FlightTrans</td>
+		<td>Integer</td>
+		<td>Number of flight transactions</td>
 	</tr>
 	<tr>
-		<td>race</td>
-		<td>categorical</td>
-		<td>White, Black, Amer-Indian-Eskimo,,Asian-Pac-Islander, Other
-		</td>
-	</tr>
-	<tr>
-		<td>sex</td>
-		<td>categorical</td>
-		<td>Female, Male</td>
-	</tr>
-	<tr>
-		<td>capitalgain</td>
-		<td>continuous</td>
-		<td>0 - $100,000</td>
-	</tr>
-	<tr>
-		<td>capitalloss</td>
-		<td>continuous</td>
-		<td>0 - $4,356</td>
-	</tr>
-	<tr>
-		<td>hoursperweek</td>
-		<td>continuous</td>
-		<td>1 - 99 hours</td>
-	</tr>
-	<tr>
-		<td>nativecountry</td>
-		<td>categorical</td>
-		<td>Cambodia, Canada, China, Columbia, Cuba, <br>Dominican-Republic, Ecuador, El-Salvador, <br>England, France, Germany etc.
-</td>
-	</tr>
-	<tr>
-		<td>fiftyKPlus</td>
-		<td>categorical</td>
-		<td><=50K, >50K</td>
+		<td>DaysSinceEnroll</td>
+		<td>Integer/td>
+		<td>Number of days since joing the frequent flyer program </td>
 	</tr>
 </table>
 <br>
@@ -110,7 +69,7 @@ The dependent variable <i>fiftyKPlus</i> has two classes: *<=50K*  or  *>50K*. T
    4. A Logistic Regression model
    
 
-The details of the modelling process and the R code to this project is avaiable <a href = "http://sachinshrestha.github.io/census.html"> here</a>.
+The details of the modelling process and the R code to this project is avaiable <a href = "http://sachinshrestha.github.io/frequentFlyer.html"> here</a>.
 
 To decide which model is best suited to predict whether or not a person earns more than 50K a year, the performance of each model has to be evaluated.
 
@@ -190,7 +149,7 @@ And what factors are the strong predictors? Well, as we just saw, the following 
    3. *education*.
 
 
-Here's the complete R code to the<a href = "http://sachinshrestha.github.io/census.html"> Census Project </a>.
+Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyer.html"> Census Project </a>.
 </font>
 
 <div id="fb-root"></div>
