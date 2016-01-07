@@ -70,13 +70,13 @@ h4 {
 
 <div id="header">
 <h2 class="title">R Code for Market Segmentation for Airlines Project</h2>
-<h5 class="title"><i>Author: Sachin Shrestha</i></h5>
+//<h5 class="title"><i>Author: Sachin Shrestha</i></h5>
 </div>
 <br>
 <h4><i>Problem: Use clustering algorithm to segment an airlines market</i></h4>
 
 <h5>
-Data source: www.dataminingbook.com
+Data source: <i>www.dataminingbook.com</i>
 </h5>
 <br>
 <br>
@@ -242,7 +242,7 @@ findClusterGroupMax &lt;-function(x){
 
 sapply(names(airlines), findClusterGroupMax)</code></pre>
 <br>
-<h4>Following clusters have the maximum values for each of the variables in the dataframe.</h4>
+<h4>The following variables have their maximum values in the clusters shown below the name of the variable.</h4>
 <pre><code>##         Balance       QualMiles      BonusMiles      BonusTrans 
 ##             &quot;3&quot;             &quot;2&quot;             &quot;3&quot;             &quot;3&quot; 
 
@@ -254,7 +254,7 @@ sapply(names(airlines), findClusterGroupMax)</code></pre>
 
 sapply(names(airlines), findClusterGroupMin)</code></pre>
 <br>
-<h4>Following clusters have the minimum values for each of the variables in the dataframe.</h4>
+<h4>The following variables have their minimum values in the clusters shown below the name of the variable.</h4>
 <pre><code>##         Balance       QualMiles      BonusMiles      BonusTrans 
 ##             &quot;5&quot;             &quot;1&quot;             &quot;5&quot;             &quot;5&quot; 
 
@@ -264,7 +264,7 @@ sapply(names(airlines), findClusterGroupMin)</code></pre>
 <br><br>
 <h3><center>Analysis of the Clusters</center></h3>
 <h4>
-Cluster 1 has the largest value of the variable <i>DaysSinceEnroll</i> whereas it has the lowest values of the variables <i>QualMiles</i>, <i>FlightsMiles</i> and <i>FlightTrans.</i> Customers in Cluster 1 may, therfore, be described as <i>infrequent but loyal customers</i>.
+Cluster 1 has the largest value of the variable <i>DaysSinceEnroll</i> whereas it has the lowest values of the variables <i>QualMiles</i>, <i>FlightsMiles</i> and <i>FlightTrans.</i> Customers in Cluster 1 may, therefore, be described as <i>infrequent but loyal customers</i>.
 <br><br>
 
 Cluster 2 has the largest average values in <i>QualMiles</i>, <i>FlightMiles</i> and <i>FlightTrans</i>. This cluster also has relatively large values in <i>BonusTrans</i> and <i>Balance</i>. Customers in Cluster 2 may be described as <i>customers who have accumulated a large amount of miles, and the ones with the largest number of flight transactions</i>.
