@@ -78,7 +78,7 @@ The results from the modelling shows that the airline's customers that are membe
 </ol>
 
 
-Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyer.html"> Market Segmetation for Frequent Flyer Customers Project </a>.
+Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyer.html"> Market Segmentation for Frequent Flyer Customers Project </a>.
 </font>
 
 
