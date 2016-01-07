@@ -82,7 +82,7 @@ Here's the complete R code to the<a href = "http://sachinshrestha.github.io/freq
 </font>
 
 
-<font size=8><sup>1</sup>Wikipedia</font>
+<font size=2><sup>1</sup>Wikipedia</font>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
