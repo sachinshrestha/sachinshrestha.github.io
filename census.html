@@ -111,7 +111,7 @@ if(!require(rpart.plot)){
 library(rpart.plot)</code></pre>
 
 <br>
-<h4> <i>ROCR</i> package is required to evaluate the perormance of models and to plot the Receiver Operating Characteristic (ROC) curves.</h4>
+<h4> <i>ROCR</i> package is required to evaluate the performance of models and to plot the Receiver Operating Characteristic (ROC) curves.</h4>
 <pre class="r"><code>
 if(!require(ROCR)){
   install.packages('ROCR')
@@ -157,15 +157,15 @@ str(census)</code></pre>
 ##  $ workclass    : Factor w/ 9 levels &quot; ?&quot;,&quot; Federal-gov&quot;,..: 8 7 5 5 5 5 5 7 5 5 ...
 ##  $ education    : Factor w/ 16 levels &quot; 10th&quot;,&quot; 11th&quot;,..: 10 10 12 2 10 13 7 12 13 10 ...
 ##  $ educationnum : int  13 13 9 7 13 14 5 9 14 13 ...
-##  $ maritalstatus: Factor w/ 7 levels &quot; Divorced&quot;,&quot; Married-AF-spouse&quot;,..: 5 3 1 3 3 3 4 3 5 3 ...
+##  $ maritalstatus: Factor w/ 7 levels &quot; Divorced&quot;,&quot; Married-AF-spouse&quot;,..: 5 3 1 3 3 3 4 ...
 ##  $ occupation   : Factor w/ 15 levels &quot; ?&quot;,&quot; Adm-clerical&quot;,..: 2 5 7 7 11 5 9 5 11 5 ...
-##  $ relationship : Factor w/ 6 levels &quot; Husband&quot;,&quot; Not-in-family&quot;,..: 2 1 2 1 6 6 2 1 2 1 ...
+##  $ relationship : Factor w/ 6 levels &quot; Husband&quot;,&quot; Not-in-family&quot;,..: 2 1 2 1 6 6 2 1 ...
 ##  $ race         : Factor w/ 5 levels &quot; Amer-Indian-Eskimo&quot;,..: 5 5 5 3 3 5 3 5 5 5 ...
 ##  $ sex          : Factor w/ 2 levels &quot; Female&quot;,&quot; Male&quot;: 2 2 2 2 1 1 1 2 1 2 ...
 ##  $ capitalgain  : int  2174 0 0 0 0 0 0 0 14084 5178 ...
 ##  $ capitalloss  : int  0 0 0 0 0 0 0 0 0 0 ...
 ##  $ hoursperweek : int  40 13 40 40 40 40 16 45 50 40 ...
-##  $ nativecountry: Factor w/ 41 levels &quot; Cambodia&quot;,&quot; Canada&quot;,..: 39 39 39 39 5 39 23 39 39 39 ...
+##  $ nativecountry: Factor w/ 41 levels &quot; Cambodia&quot;,&quot; Canada&quot;,..: 39 39 39 39 5 39 23 39 ...
 ##  $ fiftyKPlus   : Factor w/ 2 levels &quot; &lt;=50K&quot;,&quot; &gt;50K&quot;: 1 1 1 1 1 1 1 2 2 2 ...</code></pre>
 <br>
 <h4>The variable <i>educationnum</i> is a numerical representation of the variable <i>education</i>. Therefore, for the 
@@ -182,6 +182,7 @@ summary(census)</code></pre>
 ##  3rd Qu.:48.00    State-gov       : 1279    Assoc-voc   : 1366  
 ##  Max.   :90.00    Self-emp-inc    : 1074    11th        : 1167  
 ##                  (Other)          :  964   (Other)      : 5006  
+
 ##   educationnum                  maritalstatus              occupation  
 ##  Min.   : 1.00    Divorced             : 4394    Prof-specialty :4038  
 ##  1st Qu.: 9.00    Married-AF-spouse    :   23    Craft-repair   :4030  
@@ -190,6 +191,7 @@ summary(census)</code></pre>
 ##  3rd Qu.:12.00    Never-married        :10488    Sales          :3584  
 ##  Max.   :16.00    Separated            : 1005    Other-service  :3212  
 ##                   Widowed              :  979   (Other)         :9401  
+
 ##           relationship                    race            sex       
 ##   Husband       :12947    Amer-Indian-Eskimo:  311    Female:10608  
 ##   Not-in-family : 8156    Asian-Pac-Islander:  956    Male  :21370  
@@ -197,7 +199,7 @@ summary(census)</code></pre>
 ##   Own-child     : 5005    Other             :  253                  
 ##   Unmarried     : 3384    White             :27430                  
 ##   Wife          : 1534                                              
-##                                                                     
+
 ##   capitalgain     capitalloss       hoursperweek          nativecountry  
 ##  Min.   :    0   Min.   :   0.00   Min.   : 1.00    United-States:29170  
 ##  1st Qu.:    0   1st Qu.:   0.00   1st Qu.:40.00    Mexico       :  643  
@@ -206,6 +208,7 @@ summary(census)</code></pre>
 ##  3rd Qu.:    0   3rd Qu.:   0.00   3rd Qu.:45.00    Canada       :  121  
 ##  Max.   :99999   Max.   :4356.00   Max.   :99.00    Puerto-Rico  :  114  
 ##                                                    (Other)       : 1595  
+
 ##   fiftyKPlus   
 ##   &lt;=50K:24283  
 ##   &gt;50K : 7695  
