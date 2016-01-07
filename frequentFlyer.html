@@ -61,7 +61,7 @@ body, td{
 }
 h4 {
   font-family: arial;
-  size: 8px;
+  size: 10px;
   line-height: 150%;
   }
 </style>
@@ -73,7 +73,7 @@ h4 {
 
 </div>
 <br>
-<h4><i>Problem: Use clustering algorithm to segment the market for the frequent flyer program f an airline.</i></h4>
+<h4>Problem: Use clustering algorithm to segment the market of an airline's frequent flyer program.</h4>
 
 <h5>
 Data source: <i>www.dataminingbook.com</i>
@@ -92,7 +92,7 @@ str(airlines)</code></pre>
 <h4>Have a look at the data and the data types. The dataframe contains 7 variables all of which are integers.</h4>
 
 <pre><code>## 'data.frame':    3999 obs. of  7 variables:
-##  $ Balance        : int  28143 19244 41354 14776 97752 16420 84914 20856 443003 104860 ...
+##  $ Balance        : int  28143 19244 41354 14776 97752 16420 84914 20856 443003 ...
 ##  $ QualMiles      : int  0 0 0 0 0 0 0 0 0 0 ...
 ##  $ BonusMiles     : int  174 215 4123 500 43300 0 27482 5250 1753 28426 ...
 ##  $ BonusTrans     : int  1 2 4 1 26 0 25 4 43 28 ...
@@ -159,6 +159,7 @@ summary(airlines.Normalized)</code></pre>
 <pre class="r"><code>sapply(airlines.Normalized, sd)</code></pre>
 <pre><code>##         Balance       QualMiles      BonusMiles      BonusTrans 
 ##               1               1               1               1 
+
 ##     FlightMiles     FlightTrans DaysSinceEnroll 
 ##               1               1               1</code></pre>
 <br><br>
@@ -187,7 +188,7 @@ table(clusterGroups)</code></pre>
 ##    1    2    3    4    5 
 ##  776  519  494  868 1342</code></pre>
 <br>
-<h4>Compare the average values of each of the variables in the five clusters. To make it easier to interprete, we will use the unnormalaized data <i>airlines</i> to compare the averages.
+<h4>Compare the average values of each of the variables in the five clusters. To make it easier to interprete, we will use the unnormalized data <i>airlines</i> to compare the averages.
 <br><br>
 Divide the data in <i>airlines</i> into the groups defined by clusterGroups by using <i>split</i>.</h4>
 </h4>
