@@ -125,6 +125,12 @@ strong, b {
 img {
   max-width: 100%;
 }
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
 section {
 	background-color: white;	
 	width:720px;
