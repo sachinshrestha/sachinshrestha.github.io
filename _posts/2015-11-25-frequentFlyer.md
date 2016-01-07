@@ -69,13 +69,19 @@ The details of the modelling process and the R code to this project is avaiable 
 
 The results from the modelling shows that the airline's customers that are members of its frequent flyer program can be segmented into five distinct clusters. Analysis of each individual cluster shows that the clusters may be described as follows: 
 
-
-
+<ol>
+<li>Infrequent but loyal customers</li>
+<li>Customers with large amout of miles mostly from flight transactions</li>
+<li>Customers with large amout of miles mostly from non-flight transactions</li>
+<li>New customers accumulating miles from non-fligt transactions</li>
+<li>New and infrequent customers</li>  
+</ol>
 
 
 Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyer.html"> Census Project </a>.
 </font>
-<br><br>
+
+
 <h5><sup>1</sup>Wikipedia</h5>
 
 <div id="fb-root"></div>
