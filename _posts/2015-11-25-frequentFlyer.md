@@ -16,9 +16,9 @@ tags: [blogging]
 <font face="arial">
 Market segmentation<sup>1</sup> is a marketing strategy which involves dividing a broad target market into subsets of consumers, businesses, or countries that have, or are perceived to have, common needs, interests, and priorities, and then designing and implementing strategies to target them. Market segmentation strategies are generally used to identify and further define the target customers, and provide supporting data for marketing plan elements such as positioning to achieve certain marketing plan objectives. Businesses may develop product differentiation strategies, or an undifferentiated approach, involving specific products or product lines depending on the specific demand and attributes of the target segment.
 
-In this project, I will analyse the data from an ariline's frequent flyer program. In particular, I will use a <i>clustering algorithm</i> to segment the airline's market into different clusters.
+In this project, I will analyse the data from an ariline's frequent flyer program to group it's customers into different market segments. In particular, I will use a <i>clustering algorithm</i> to segment the airline's market into different clusters.
 
-I habe taken the data for this project from www.dataminingbook.com.
+I have taken the data for this project from <i>www.dataminingbook.com</i>.
 
 The <i>airlines</i> dataframe used for this project contains 7 variables. All of the 12 variables are integers. The variables are shown in the table below.
 
