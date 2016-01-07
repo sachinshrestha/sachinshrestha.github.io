@@ -59,7 +59,7 @@ The <i>airlines</i> dataframe used for this project contains 7 variables. All of
 	</tr>
 	<tr>
 		<td>DaysSinceEnroll</td>
-		<td>Integer/td>
+		<td>Integer</td>
 		<td>Number of days since joing the frequent flyer program </td>
 	</tr>
 </table>
