@@ -36,7 +36,7 @@ The <i>airlines</i> dataframe used for this project contains 7 variables. All of
 	<tr>
 		<td>QualMiles</td>
 		<td>Integer</td>
-		<td>??</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>BonusMiles</td>
@@ -45,6 +45,7 @@ The <i>airlines</i> dataframe used for this project contains 7 variables. All of
 	</tr>
 	<tr>
 		<td>BonusTrans</td>
+		<td>Integer</td>
 		<td>Number of non-flight transactions</td>
 	</tr>
 	<tr>
