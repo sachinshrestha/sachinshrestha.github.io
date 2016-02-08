@@ -35,6 +35,6 @@ sitemap: false
          
    <li><b>HOW DO PEOPLE TRAVEL TO WORK IN NSW?</b></li>
    <br>
-         Sofware used: Tableau
+         Software used: Tableau
          <br><br><br>
    </ol>
