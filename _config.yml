@@ -53,7 +53,7 @@ url: http://sachinshrestha.github.io
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: kramdown
+markdown: Redcarpet
 highlighter: pygments
 permalink: /:title/
 
