@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Contact me
-Sachin Shrestha
+<h3>Sachin Shrestha</h3>
 <br>
 Sydney, Australia
 
