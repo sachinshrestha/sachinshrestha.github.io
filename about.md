@@ -42,7 +42,7 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 </pre>
 <pre>
 <u>EDUCATIONAL QUALIFICATIONS</u>
-<table>
+<table border="0">
 <td>2015</td>	<td>Certificate for Data Science and Machine Learning Essentials</td></tr>
 		<td></td><td>edX Verified Certificate</td></tr>
 		<td></td><td><a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a></td></tr>
