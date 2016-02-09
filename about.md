@@ -10,9 +10,14 @@ table {
     background-color: white;
     border-collapse: collapse;
 }
+
+div.content {
+	width: 720px
+}
 </style>
 
-
+<body>
+  <div class="content">
 <pre>
 <b>Sachin Shrestha</b>
 </pre>
@@ -102,4 +107,6 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 <li>Tableau</li>
 <li>Microsoft Word, PowerPoint, Access</li>
 </ul>
+  </div>
+</body>
 
