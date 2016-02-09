@@ -13,9 +13,9 @@ Website: sachinshrestha.github.io
 
 
 EDUCATIONAL QUALIFICATIONS
-2015		Certificate for Data Science and Machine Learning Essentials
-		edX Verified Certificate
-		<a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a>
+2015 &nbsp Certificate for Data Science and Machine Learning Essentials
+     &nbsp edX Verified Certificate
+     &nbsp <a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a>
 
 2014		Doctor of Philosophy in Engineering
 		The University of Western Australia, Perth
