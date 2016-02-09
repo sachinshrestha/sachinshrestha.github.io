@@ -3,9 +3,6 @@ layout: page
 title:
 permalink: /about/
 ---
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
 <style>
 table { 
     display: table;
@@ -14,8 +11,8 @@ table {
     border-color: gray;
 }
 </style>
-</head>
-<body>
+
+
 <pre>
 <b>Sachin Shrestha</b>
 </pre>
@@ -105,4 +102,4 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 <li>Tableau</li>
 <li>Microsoft Word, PowerPoint, Access</li>
 </ul>
-</html>
+
