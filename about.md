@@ -6,12 +6,11 @@ permalink: /about/
 <pre>
 <b>Sachin Shrestha</b>
 Sydney, Australia
-
-Email:	 	sachin.shrestha33@gmail.com
+Email:		sachin.shrestha33@gmail.com
 Website:	sachinshrestha.github.io
 
 
-EMPLOYMENT
+<u>EMPLOYMENT</u>
 PhD Research Data Analyst
 Mar 2010 – Dec 2014
 The University of Western Australia
