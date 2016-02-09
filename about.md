@@ -49,19 +49,20 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 </table>
 
 
+<table border="0">
+<tr><td>2014</td>	<td>Doctor of Philosophy in Engineering</td></tr>
+			<td></td><td>The University of Western Australia</td></tr>
+			<td></td><td>Perth
+<td>Achievements:</td>	<td>Awarded Bankwest Convocation Award, 2014</td></tr>
+			<td></td><td>Awarded UWA Postgraduate Travel Award, 2012</td></tr>
+			<td></td><td>Authored journal articles, wrote and presented papers in domestic and international 					conferences</td></tr>
+</table>
 
-2014		Doctor of Philosophy in Engineering
-		The University of Western Australia,
-		Perth
-Achievements:	Awarded Bankwest Convocation Award, 2014
-		Awarded UWA Postgraduate Travel Award, 2012
-		Authored journal articles, wrote and presented papers in domestic and international conferences
 
-
-
-2014		Certificate in The Analytics Edge
-		edX Honour Code Certificate from Massachusetts Institute of Technology
-		<a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s			3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a>
+<table>
+<tr><td>2014</td>	<td>Certificate in The Analytics Edge</td></tr>
+		<td></td><td>edX Honour Code Certificate from Massachusetts Institute of Technology</td></tr>
+		<a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s			3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a></td></tr>
 
 Achievements: 	Secured 95% marks.
 		Ranked high in Kaggle competition for developing a machine learning model for predicting happiness. Raw data from 			‘Show of Hands’, a polling app for use on mobile devices and the web, was used to see what aspects and 					characteristics of people's lives predict happiness. In this problem, data from thousands of users and one hundred 		different questions was used to see which responses predict happiness.
