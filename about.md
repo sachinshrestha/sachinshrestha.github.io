@@ -3,7 +3,8 @@ layout: page
 title:
 permalink: /about/
 ---
-
+<html>
+<body>
 <pre>
 <b>Sachin Shrestha</b>
 </pre>
@@ -39,7 +40,7 @@ Perth
 </table>
 
 
-<table>
+<table border="0">
 <tr><td>2014</td>		<td>Doctor of Philosophy in Engineering</td></tr>
 				<tr><td></td><td>The University of Western Australia</td></tr>
 				<tr><td></td><td>Perth</td></tr>
@@ -49,7 +50,7 @@ Perth
 </table>
 
 
-<table>
+<table border="0">
 <tr><td>2014</td>	<td>Certificate in The Analytics Edge</td></tr>
 			<tr><td></td><td>edX Honour Code Certificate from Massachusetts Institute of Technology</td></tr>
 			<tr><td></td><td><a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a></td></tr>
@@ -81,4 +82,6 @@ Perth
 <li>Tableau</li>
 <li>Microsoft Word, PowerPoint, Access</li>
 </ul>
+</body>
+</html>
  
