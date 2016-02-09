@@ -3,6 +3,19 @@ layout: page
 title:
 permalink: /about/
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table { 
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+</style>
+</head>
+<body>
 <pre>
 <b>Sachin Shrestha</b>
 </pre>
@@ -40,6 +53,7 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 <li>Produced and presented reports in meetings and conferences.</li>
 </ul>
 </pre>
+
 <pre>
 <u>EDUCATIONAL QUALIFICATIONS</u>
 <table border="0">
@@ -49,7 +63,7 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 </table>
 
 
-<table border="0">
+<table>
 <tr><td>2014</td>		<td>Doctor of Philosophy in Engineering</td></tr>
 				<tr><td></td><td>The University of Western Australia</td></tr>
 				<tr><td></td><td>Perth</td></tr>
