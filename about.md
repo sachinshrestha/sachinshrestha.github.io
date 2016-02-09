@@ -4,8 +4,6 @@ title:
 permalink: /about/
 ---
 
-<html>
-<body>
 <pre>
 <b>Sachin Shrestha</b>
 </pre>
@@ -89,6 +87,97 @@ Perth
 <li>Tableau</li>
 <li>Microsoft Word, PowerPoint, Access</li>
 </ul>
-</body>
-</html>
- 
+
+<p><b>Sachin Shrestha</b></p>
+
+<p>Sydney, Australia</p>
+
+<p>Email: sachin.shrestha33@gmail.com</p>
+
+<p>Website: sachinshrestha.github.io</p>
+
+<p><b>EMPLOYMENT</b></p>
+
+<p><b>PhD Research Data Analyst</b></p>
+
+<p>Mar 2010 – Dec 2014</p>
+
+<p>The University of Western Australia</p>
+
+<p>Perth</p>
+
+<p>· Undertook data analysis projects that involved the analysis of unstructured, semi-structured and structured data, cleaning and preparation of data, developing statistical and machine learning models, training, testing and validating the statistical/machine learning models.</p>
+
+<p>· Performed calculations for statistical data analysis using SAS, R and SQL – performed descriptive evaluation of data, correlations, inferential analyses, comparative tests, hypothesis tests, parametric and non-parametric analyses and created reports.</p>
+
+<p>· Developed supervised machine learning models, namely, decision tree and artificial neural network models in R to classify cancer patients into high-risk, medium-risk and low-risk patients.</p>
+
+<p>· Built machine learning models – CART model with cross validation and random forest model – to predict the response of cancer cells to drug treatment. Evaluated the performance of the models developed. Further developed and refined the model to predict patient-specific response to cancer therapy. Developed a recommendation system for targeted patient-specific treatment regime.</p>
+
+<p>· Built and used a predictive model to predict the growth of brain tumour and its effect on the surrounding brain tissue using biomedical and biomechanical data.</p>
+
+<p>· Produced and presented reports in meetings and conferences.</p>
+
+<p><b><br />
+</b></p>
+
+<p><b>EDUCATIONAL QUALIFICATIONS</b></p>
+
+<p><b>2015 Certificate for Data Science and Machine Learning Essentials</b></p>
+
+<p>edX Verified Certificate</p>
+
+<p><a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a></p>
+
+<p><b>2014 Doctor of Philosophy in Engineering</b></p>
+
+<p>The University of Western Australia</p>
+
+<p>Perth</p>
+
+<p>Achievements: Awarded Bankwest Convocation Award, 2014</p>
+
+<p>Awarded UWA Postgraduate Travel Award, 2012</p>
+
+<p>Authored journal articles, wrote and presented papers in domestic and international conferences</p>
+
+<p><b>2014 Certificate in The Analytics Edge</b></p>
+
+<p>edX Honour Code Certificate from Massachusetts Institute of Technology</p>
+
+<p><a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a></p>
+
+<p>Achievements: Secured 95% marks.</p>
+
+<p>Ranked high in Kaggle competition for developing a machine learning model for predicting happiness. Raw data from ‘Show of Hands’, a polling app for use on mobile devices and the web, was used to see what aspects and characteristics of people's lives predict happiness. In this problem, data from thousands of users and one hundred different questions was used to see which responses predict happiness.</p>
+
+<p><b>Projects undertaken in edX Courses</b></p>
+
+<p>· Used an individual’s information to predict whether or not the person earns more than $50,000 per year. The source of the data was Census Data for Earnings, 2010. For the purpose of solving this problem, I built a logistic regression model, a CART model, a CART model with cross-validation, and a random forest model and compared their accuracies to choose the best model.</p>
+
+<p>· Developed a linear regression model and a regression tree model for predicting life-expectancy using publicly available census data and analysed predictions.</p>
+
+<p>· Built logistic regression models for predicting loan repayment, and for the prediction of business failure.</p>
+
+<p>· Carried out clustering analysis on stock returns, market segmentation for airlines, and for predicting medical costs.</p>
+
+<p>· Carried out text analytics on twitter data relevant to Apple iPhone 5C in order to assess consumer sentiment associated with the product.</p>
+
+<p>· Developed linear optimization models for revenue management, investment management under taxation and, outsourcing decision on textile production.</p>
+
+<p>· Developed integer optimization models for selecting profitable hotel sites, assigning sales regions for pharmaceutical company and, optimizing sales channels for organic farm products.</p>
+
+<p><b>INFORMATION TECHNOLOGY SKILLS</b></p>
+
+<p>· Programming in R, SAS, MATLAB </p>
+
+<p>· Excellent querying skills using SQL</p>
+
+<p>· Microsoft Azure</p>
+
+<p>· Advanced data analysis skills in Excel</p>
+
+<p>· Tableau</p>
+
+<p>· Microsoft Word, PowerPoint, Access</p>
+
