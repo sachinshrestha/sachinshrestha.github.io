@@ -66,7 +66,7 @@ The <i>airlines</i> dataframe used for this project contains 7 variables. All of
 </table>
 <br>
 
-The details of the modelling process and the R code to this project is avaiable <a href = "http://sachinshrestha.github.io/frequentFlyer.html"> here</a>. 
+The details of the modelling process and the R code to this project is avaiable <a href = "http://sachinshrestha.github.io/frequentFlyerCode/"> here</a>. 
 
 The results from the modelling shows that the airline's customers that are members of its frequent flyer program can be segmented into five distinct clusters. Analysis of each individual cluster shows that the clusters may be described as follows: 
 
@@ -79,7 +79,7 @@ The results from the modelling shows that the airline's customers that are membe
 </ol>
 
 
-Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyer.html"> Market Segmentation for Frequent Flyer Customers Project </a>.
+Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyerCode/"> Market Segmentation for Frequent Flyer Customers Project </a>.
 </font>
 
 --------------------------------------------------------------------------------------------------------------------------------------
