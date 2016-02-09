@@ -14,27 +14,29 @@ Email: [sachin.shrestha33@gmail.com](mailto:sachin.shrestha33@gmail.com)
 <pre>
 Sachin Shrestha
 Sydney, Australia
+
 Email:	 	sachin.shrestha33@gmail.com
 Website:	sachinshrestha.github.io
 
 
+
 EDUCATIONAL QUALIFICATIONS
-2015				Certificate for Data Science and Machine Learning Essentials
+2015					Certificate for Data Science and Machine Learning Essentials
 						edX Verified Certificate
 						https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016
 
-2014				Doctor of Philosophy in Engineering
+2014					Doctor of Philosophy in Engineering
 						The University of Western Australia, Perth
 Achievements:	Awarded Bankwest Convocation Award, 2014.
-						  Awarded UWA Postgraduate Travel Award, 2012.
-              Authored journal articles, wrote and presented papers in domestic and international conferences.
+						Awarded UWA Postgraduate Travel Award, 2012.
+Authored journal articles, wrote and presented papers in domestic and international conferences.
 
 2014					Certificate in The Analytics Edge
-						  edX Honour Code Certificate from Massachusetts Institute of Technology
-						  https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf
+						edX Honour Code Certificate from Massachusetts Institute of Technology
+						https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf
 
-              Achievements: 	Secured 95% marks.
-              Ranked 5th out of 1685 players in Kaggle competition for developing a machine learning model for predicting happiness.                Raw data from ‘Show of Hands’, a polling app for use on mobile devices and the web, was used to see what aspects and                  characteristics of people's lives predict happiness. In this problem, data from thousands of users and one hundred                    different questions was used to see which responses predict happiness.
+Achievements: 	Secured 95% marks.
+Ranked 5th out of 1685 players in Kaggle competition for developing a machine learning model for predicting happiness. Raw data from ‘Show of Hands’, a polling app for use on mobile devices and the web, was used to see what aspects and characteristics of people's lives predict happiness. In this problem, data from thousands of users and one hundred different questions was used to see which responses predict happiness.
 
 
 Projects undertaken in edX Courses
@@ -67,8 +69,10 @@ INFORMATION TECHNOLOGY SKILLS
 •	Excellent querying skills using SQL
 •	Microsoft Azure
 •	Advanced data analysis skills in Excel
-•	Tableau
 •	Microsoft Word, PowerPoint, Access
+
+
+
 
 
 
