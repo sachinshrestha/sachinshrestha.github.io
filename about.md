@@ -3,8 +3,8 @@ layout: page
 title:
 permalink: /about/
 ---
-####Sachin Shrestha
 <pre>
+<b>Sachin Shrestha</b>
 Sydney, Australia
 
 Email: sachin.shrestha33@gmail.com
