@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-<embed src="sachinshrestha.github.io/Resume - Sachin Shrestha.pdf"> width="550" height="750"</embed>
+<embed src="sachinshrestha.github.io/Resume - Sachin Shrestha.pdf" width="550" height="750"</embed>
 <pre>
 <b>Sachin Shrestha</b>
 Sydney, Australia
