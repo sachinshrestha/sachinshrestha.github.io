@@ -3,6 +3,13 @@ layout: page
 title:
 permalink: /about/
 ---
+<style>
+body{
+width:740px;
+margin:0 auto;
+}
+</style>
+
 <html>
 <body>
 <pre>
