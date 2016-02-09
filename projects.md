@@ -18,7 +18,7 @@ sitemap: false
          <br>
          Programming language: R
          <br><br>
-         Code is available <a href="http://sachinshrestha.github.io/census.html">here</a>.
+         Code is available <a href="http://sachinshrestha.github.io/censusCode/">here</a>.
          <br><br><br>
 
    <li><b>FREQUENT FLYER MARKET SEGMETATION PROJECT</b></li>
@@ -30,7 +30,7 @@ sitemap: false
          <br>
          Programming language: R
          <br><br>
-        Code is available <a href="http://sachinshrestha.github.io/frequentFlyer.html">here</a>.
+        Code is available <a href="http://sachinshrestha.github.io/frequentFlyerCode">here</a>.
          <br><br><br>
          
    <li><b>HOW DO PEOPLE TRAVEL TO WORK IN NSW?</b></li>
