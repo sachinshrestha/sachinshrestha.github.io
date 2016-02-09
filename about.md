@@ -43,29 +43,30 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 <pre>
 <u>EDUCATIONAL QUALIFICATIONS</u>
 <table border="0">
-<td>2015</td>	<td>Certificate for Data Science and Machine Learning Essentials</td></tr>
-		<td></td><td>edX Verified Certificate</td></tr>
-		<td></td><td><a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a></td></tr>
+<tr><td>2015</td>	<td>Certificate for Data Science and Machine Learning Essentials</td></tr>
+			<tr><td></td><td>edX Verified Certificate</td></tr>
+			<tr><td></td><td><a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a></td></tr>
 </table>
 
 
 <table border="0">
-<tr><td>2014</td>	<td>Doctor of Philosophy in Engineering</td></tr>
-			<td></td><td>The University of Western Australia</td></tr>
-			<td></td><td>Perth
-<td>Achievements:</td>	<td>Awarded Bankwest Convocation Award, 2014</td></tr>
-			<td></td><td>Awarded UWA Postgraduate Travel Award, 2012</td></tr>
-			<td></td><td>Authored journal articles, wrote and presented papers in domestic and international 					conferences</td></tr>
+<tr><td>2014</td>		<td>Doctor of Philosophy in Engineering</td></tr>
+				<tr><td></td><td>The University of Western Australia</td></tr>
+				<tr><td></td><td>Perth</td></tr>
+<tr><td>Achievements:</td>	<td>Awarded Bankwest Convocation Award, 2014</td></tr>
+				<tr><td></td><td>Awarded UWA Postgraduate Travel Award, 2012</td></tr>
+				<tr><td></td><td>Authored journal articles, wrote and presented papers in domestic and international 					conferences</td></tr>
 </table>
 
 
 <table>
 <tr><td>2014</td>	<td>Certificate in The Analytics Edge</td></tr>
-		<td></td><td>edX Honour Code Certificate from Massachusetts Institute of Technology</td></tr>
-		<a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s			3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a></td></tr>
+			<tr><td></td><td>edX Honour Code Certificate from Massachusetts Institute of Technology</td></tr>
+			<tr><a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a></td></tr>
 
-Achievements: 	Secured 95% marks.
-		Ranked high in Kaggle competition for developing a machine learning model for predicting happiness. Raw data from 			‘Show of Hands’, a polling app for use on mobile devices and the web, was used to see what aspects and 					characteristics of people's lives predict happiness. In this problem, data from thousands of users and one hundred 		different questions was used to see which responses predict happiness.
+<tr><td>Achievements:</td> 	<td>Secured 95% marks.</td></tr>
+				<tr><td></td><td>Ranked high in Kaggle competition for developing a machine learning model for predicting happiness. Raw data from ‘Show of Hands’, a polling app for use on mobile devices and the web, was used to see what aspects and characteristics of people's lives predict happiness. In this problem, data from thousands of users and one hundred 		different questions was used to see which responses predict happiness.</td></tr>
+</table>
 
 
 <u>Projects undertaken in edX Courses</u>
