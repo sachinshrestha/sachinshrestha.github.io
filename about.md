@@ -7,8 +7,8 @@ permalink: /about/
 <b>Sachin Shrestha</b>
 Sydney, Australia
 
-Email: sachin.shrestha33@gmail.com
-Website: sachinshrestha.github.io
+Email:&nbsp;sachin.shrestha33@gmail.com
+Website:&nbsp;sachinshrestha.github.io
 
 
 
