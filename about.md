@@ -4,4 +4,4 @@ title:
 permalink: /about/
 ---
 
-[CV.pdf](sachinshrestha.github.io/CV.pdf)
+[CV.pdf](http://sachinshrestha.github.io/CV.pdf)
