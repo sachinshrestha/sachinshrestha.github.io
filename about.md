@@ -5,10 +5,10 @@ permalink: /about/
 ---
 <style>
 table { 
-    display: table;
-    border-collapse: separate;
-    border-spacing: 2px;
-    border-color: gray;
+    border: 0px;
+    height: 10px;
+    background-color: white;
+    color: white;
 }
 </style>
 
