@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-### Contact me
 <h3>Sachin Shrestha</h3>
-<br>
 Sydney, Australia
-
 
 Email: [sachin.shrestha33@gmail.com](mailto:sachin.shrestha33@gmail.com)
 <pre>
