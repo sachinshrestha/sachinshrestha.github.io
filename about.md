@@ -4,4 +4,4 @@ title:
 permalink: /about/
 ---
 
-<embed src="sachinshrestha.github.io/CV.pdf" width="550" height="750"</embed>
+[CV.pdf](sachinshrestha.github.io/CV.pdf)
