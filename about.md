@@ -5,5 +5,7 @@ permalink: /about/
 ---
 
 ### Contact me
+Sachin Shrestha
+Sydney, Australia
 
-[sachin.shrestha33@gmail.com](mailto:sachin.shrestha33@gmail.com)
+Email: [sachin.shrestha33@gmail.com](mailto:sachin.shrestha33@gmail.com)
