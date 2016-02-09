@@ -3,15 +3,15 @@ layout: page
 title:
 permalink: /about/
 ---
+<b>Sachin Shrestha</b><br>
 <pre>
-<b>Sachin Shrestha</b>
 Sydney, Australia
 Email:    sachin.shrestha33@gmail.com
 Website:  sachinshrestha.github.io
+</pre>
+<br>
 
-
-
-
+<pre>
 <u>EMPLOYMENT</u>
 PhD Research Data Analyst
 Mar 2010 – Dec 2014
