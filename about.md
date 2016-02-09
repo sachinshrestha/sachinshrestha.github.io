@@ -43,9 +43,9 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 <pre>
 <u>EDUCATIONAL QUALIFICATIONS</u>
 
-2015<ul style="list-style-type:none"; "padding:0"><li>Certificate for Data Science and Machine Learning Essentials</li>
-		<li>edX Verified Certificate</li>
-		<li><a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a></li>
+2015		Certificate for Data Science and Machine Learning Essentials
+		edX Verified Certificate
+		<a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.			edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a>
 
 
 
@@ -60,28 +60,32 @@ Achievements:	Awarded Bankwest Convocation Award, 2014
 
 2014		Certificate in The Analytics Edge
 		edX Honour Code Certificate from Massachusetts Institute of Technology
-		<a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a>
+		<a href="https://s3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf">https://s			3.amazonaws.com/verify.edx.org/downloads/0935f131aaf84d31835667b74a965db0/Certificate.pdf</a>
 
 Achievements: 	Secured 95% marks.
 		Ranked high in Kaggle competition for developing a machine learning model for predicting happiness. Raw data from 			‘Show of Hands’, a polling app for use on mobile devices and the web, was used to see what aspects and 					characteristics of people's lives predict happiness. In this problem, data from thousands of users and one hundred 		different questions was used to see which responses predict happiness.
 
 
-Projects undertaken in edX Courses
-•	Used an individual’s information to predict whether or not the person earns more than $50,000 per year. The source of the data was Census Data for Earnings, 2010. For the purpose of solving this problem, I built a logistic regression model, a CART model, a CART model with cross-validation, and a random forest model and compared their accuracies to choose the best model.
-•	Developed a linear regression model and a regression tree model for predicting life-expectancy using publicly available census data and analysed predictions.
-•	Built logistic regression models for predicting loan repayment, and for the prediction of business failure.
-•	Carried out clustering analysis on stock returns, market segmentation for airlines, and for predicting medical costs.
-•	Carried out text analytics on twitter data relevant to Apple iPhone 5C in order to assess consumer sentiment associated with the product.
-•	Developed linear optimization models for revenue management, investment management under taxation and, outsourcing decision on textile production.
-•	Developed integer optimization models for selecting profitable hotel sites, assigning sales regions for pharmaceutical company and, optimizing sales channels for organic farm products.
+<u>Projects undertaken in edX Courses</u>
+<ul>
+<li>Used an individual’s information to predict whether or not the person earns more than $50,000 per year. The source of the data was Census Data for Earnings, 2010. For the purpose of solving this problem, I built a logistic regression model, a CART model, a CART model with cross-validation, and a random forest model and compared their accuracies to choose the best model.</li>
+<li>Developed a linear regression model and a regression tree model for predicting life-expectancy using publicly available census data and analysed predictions.</li>
+<li>Built logistic regression models for predicting loan repayment, and for the prediction of business failure.</li>
+<li>Carried out clustering analysis on stock returns, market segmentation for airlines, and for predicting medical costs.</li>
+<li>Carried out text analytics on twitter data relevant to Apple iPhone 5C in order to assess consumer sentiment associated with the product.</li>
+<li>Developed linear optimization models for revenue management, investment management under taxation and, outsourcing decision on textile production.</li>
+<li>Developed integer optimization models for selecting profitable hotel sites, assigning sales regions for pharmaceutical company and, optimizing sales channels for organic farm products.</li>
+</ul>
 
 
 
-INFORMATION TECHNOLOGY SKILLS
-•	Programming in R, SAS, MATLAB						
-•	Excellent querying skills using SQL
-•	Microsoft Azure
-•	Advanced data analysis skills in Excel
-•	Tableau
-•	Microsoft Word, PowerPoint, Access
+<u>INFORMATION TECHNOLOGY SKILLS</u>
+<ul>
+<li>Programming in R, SAS, MATLAB</li>
+<li>Excellent querying skills using SQL</li>
+<li>Microsoft Azure</li>
+<li>Advanced data analysis skills in Excel</li>
+<li>Tableau</li>
+<li>Microsoft Word, PowerPoint, Access</li>
+</ul>
 
