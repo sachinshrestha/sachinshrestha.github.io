@@ -7,15 +7,15 @@ permalink: /about/
 <b>Sachin Shrestha</b>
 Sydney, Australia
 
-Email:&nbsp;sachin.shrestha33@gmail.com
-Website:&nbsp;sachinshrestha.github.io
+Email:		sachin.shrestha33@gmail.com
+Website:	sachinshrestha.github.io
 
 
 
 EDUCATIONAL QUALIFICATIONS
-2015&nbsp;&nbsp;Certificate for Data Science and Machine Learning Essentials
-     &nbsp;&nbsp;edX Verified Certificate
-     &nbsp;&nbsp;<a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a>
+2015		Certificate for Data Science and Machine Learning Essentials
+		edX Verified Certificate
+		<a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.			edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a>
 
 2014		Doctor of Philosophy in Engineering
 		The University of Western Australia, Perth
