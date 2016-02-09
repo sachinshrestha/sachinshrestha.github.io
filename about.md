@@ -3,21 +3,7 @@ layout: page
 title:
 permalink: /about/
 ---
-<style>
-table { 
-    border: 0px;
-    height: 10px;
-    background-color: white;
-    border-collapse: collapse;
-}
 
-div.content {
-	width: 720px
-}
-</style>
-
-<body>
-  <div class="content">
 <pre>
 <b>Sachin Shrestha</b>
 </pre>
@@ -95,6 +81,4 @@ Perth
 <li>Tableau</li>
 <li>Microsoft Word, PowerPoint, Access</li>
 </ul>
-  </div>
-</body>
-
+ 
