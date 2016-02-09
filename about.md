@@ -40,7 +40,7 @@ Perth
 
 <pre>
 <u>EDUCATIONAL QUALIFICATIONS</u>
-<table border="0">
+<table border="1" style="background-color:#FFFFCC;border-collapse:collapse;border:1px;color:#000000;width:100%" cellpadding="5" cellspacing="3">
 <tr><td>2015</td>	<td>Certificate for Data Science and Machine Learning Essentials</td></tr>
 			<tr><td></td><td>edX Verified Certificate</td></tr>
 			<tr><td></td><td><a href="https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016">https://courses.edx.org/certificates/user/2982392/course/course-v1:Microsoft+DAT203x+1T2016</a></td></tr>
