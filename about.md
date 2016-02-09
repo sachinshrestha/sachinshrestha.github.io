@@ -3,17 +3,11 @@ layout: page
 title:
 permalink: /about/
 ---
-
+<pre>
 <h3>Sachin Shrestha</h3>
 Sydney, Australia
-
 Email: [sachin.shrestha33@gmail.com](mailto:sachin.shrestha33@gmail.com)
-<pre>
-Sachin Shrestha
-Sydney, Australia
-
-Email:	 	sachin.shrestha33@gmail.com
-Website:	sachinshrestha.github.io
+Website: sachinshrestha.github.io
 
 
 
