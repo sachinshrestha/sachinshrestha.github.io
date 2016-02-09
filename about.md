@@ -6,8 +6,8 @@ permalink: /about/
 <pre>
 <b>Sachin Shrestha</b>
 Sydney, Australia
-Email:</t>sachin.shrestha33@gmail.com
-Website:</t>sachinshrestha.github.io
+Email:    sachin.shrestha33@gmail.com
+Website:  sachinshrestha.github.io
 
 
 
@@ -17,31 +17,15 @@ PhD Research Data Analyst
 Mar 2010 – Dec 2014
 The University of Western Australia
 Perth
+
 <ul>
-   <li><b>CENSUS PROJECT</b></li>
-   <br>
-      Algorithms used:</t>
-                           <ul>
-                           <li>CART (Classification and Regression Trees)</li>
-                           <li>CART with Cross-Validation</li>
-                           <li>Random Forest</li>
-                           <li>Logistic Regression</li>
-                           </ul>
-         <br>
-         Programming language: R
-         <br><br>
-         Code is available <a href="http://sachinshrestha.github.io/censusCode/">here</a>.
-         <br><br><br>
-
-
-
-
-•	Undertook data analysis projects that involved the analysis of unstructured, semi-structured and structured data, cleaning and preparation of data, developing statistical and machine learning models, training, testing and validating the statistical/machine learning models.
-•	Performed calculations for statistical data analysis using SAS, R and SQL – performed descriptive evaluation of data, correlations, inferential analyses, comparative tests, hypothesis tests, parametric and non-parametric analyses and created reports.
-•	Developed supervised machine learning models, namely, decision tree and artificial neural network models in R to classify cancer patients into high-risk, medium-risk and low-risk patients.
-•	Built machine learning models – CART model with cross validation and random forest model – to predict the response of cancer cells to drug treatment. Evaluated the performance of the models developed. Further developed and refined the model to predict patient-specific response to cancer therapy. Developed a recommendation system for targeted patient-specific treatment regime.
-•	Built and used a predictive model to predict the growth of brain tumour and its effect on the surrounding brain tissue using biomedical and biomechanical data.
-•	Produced and presented reports in meetings and conferences.
+<li>Undertook data analysis projects that involved the analysis of unstructured, semi-structured and structured data, cleaning and preparation of data, developing statistical and machine learning models, training, testing and validating the statistical/machine learning models.</li>
+<li>Performed calculations for statistical data analysis using SAS, R and SQL – performed descriptive evaluation of data, correlations, inferential analyses, comparative tests, hypothesis tests, parametric and non-parametric analyses and created reports.</li>
+<li>Developed supervised machine learning models, namely, decision tree and artificial neural network models in R to classify cancer patients into high-risk, medium-risk and low-risk patients.</li>
+<li>Built machine learning models – CART model with cross validation and random forest model – to predict the response of cancer cells to drug treatment. Evaluated the performance of the models developed. Further developed and refined the model to predict patient-specific response to cancer therapy. Developed a recommendation system for targeted patient-specific treatment regime.</li>
+<li>Built and used a predictive model to predict the growth of brain tumour and its effect on the surrounding brain tissue using biomedical and biomechanical data.</li>
+<li>Produced and presented reports in meetings and conferences.</li>
+</ul>
 EDUCATIONAL QUALIFICATIONS
 2015					Certificate for Data Science and Machine Learning Essentials
 						edX Verified Certificate
