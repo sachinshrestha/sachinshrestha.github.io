@@ -17,7 +17,7 @@ PhD Research Data Analyst
 Mar 2010 – Dec 2014
 The University of Western Australia
 Perth
-
+<pre>
 <ul>
 <li>Undertook data analysis projects that involved the analysis of unstructured, 
 semi-structured and structured data, cleaning and preparation of data, developing 
@@ -38,6 +38,7 @@ patient-specific treatment regime.</li>
 on the surrounding brain tissue using biomedical and biomechanical data.</li>
 <li>Produced and presented reports in meetings and conferences.</li>
 </ul>
+</pre>
 EDUCATIONAL QUALIFICATIONS
 2015					Certificate for Data Science and Machine Learning Essentials
 						edX Verified Certificate
