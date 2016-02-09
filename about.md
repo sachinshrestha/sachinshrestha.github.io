@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <style>
 table { 
@@ -105,4 +105,4 @@ on the surrounding brain tissue using biomedical and biomechanical data.</li>
 <li>Tableau</li>
 <li>Microsoft Word, PowerPoint, Access</li>
 </ul>
-
+</html>
