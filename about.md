@@ -8,6 +8,7 @@ table {
     border: 0px;
     height: 10px;
     background-color: white;
+    border-collapse: collapse;
 }
 </style>
 
