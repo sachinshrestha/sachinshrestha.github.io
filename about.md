@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 <div class = "about">
-<p style="font-family:'Bookman Old Style'; font-weight:bold;">Sachin Shrestha </p>
+<p style="font-weight:bold;">Sachin Shrestha </p>
 <p>Resource Allocation Model Analyst</p>
 <p>NSW Department of Education</p>
 <p>Sydney, Australia</p>
