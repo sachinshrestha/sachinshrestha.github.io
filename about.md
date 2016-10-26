@@ -3,10 +3,11 @@ layout: page
 title:
 permalink: /about/
 ---
-<p>
-Sachin Shrestha
-Resource Allocation Model Analyst
-NSW Department of Education
-Sydney, Australia
-E-mail: sachin.shresha33@gmail.com
-</p>
+<div class = "about">
+<p style="font-weight:bold;">Sachin Shrestha </p>
+<p>Resource Allocation Model Analyst</p>
+<p>NSW Department of Education</p>
+<p>Sydney, Australia</p>
+<p>E-mail: sachin.shresha33@gmail.com</p>
+</div>
+
