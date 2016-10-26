@@ -19,13 +19,13 @@ html {
 
 body {
 	background: #d3d3d3;
-	font-family:Avenir;
+	font-family:'Bookman Old Style';
 	color: $darkGray;
 	line-height: 140%;
 }
 
 .about{
-	font-family: Cambria;
+	font-family: 'Bookman Old Style';
 	font-size: 100%;
 	line-height: 70%;	
 }
@@ -41,7 +41,7 @@ table, td, th {
 	border: 1px solid black;
 	border-collapse: collapse;
 	padding: 15px;
-	font-family: $georgia;
+	font-family: 'Bookman Old Style';
 	font-size: 15px;
 }
 
@@ -55,7 +55,7 @@ tr:nth-child(even){
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Avenir;
+  font-family: 'Bookman Old Style';
   color: $darkerGray;
   font-weight: bold;
 
@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-family: Avenir;
+	font-family: 'Bookman Old Style';
 	font-size: 30px;
 }
 
