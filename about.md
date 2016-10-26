@@ -8,6 +8,6 @@ permalink: /about/
 <p>Resource Allocation Model Analyst</p>
 <p>NSW Department of Education</p>
 <p>Sydney, Australia</p>
-<p>E-mail: sachin.shresha33@gmail.com</p>
+<p>E-mail: Sachin.Shresha33@gmail.com</p>
 </div>
 
