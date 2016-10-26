@@ -20,7 +20,7 @@ In this project, I will analyse the data from an ariline's frequent flyer progra
 
 I have taken the data for this project from <i>www.dataminingbook.com</i>.
 
-The <i>airlines</i> dataframe used for this project contains 7 variables. All of the 12 variables are integers. The variables are shown in the table below.
+The <i>airlines</i> dataframe used for this project contains 7 variables. All of the 7 variables are integers. The variables are shown in the table below.
 
 <table border="1" style="background-color:#FFFFCC;border-collapse:collapse;border:1px;color:#000000;width:100%" cellpadding="5" cellspacing="3">
 	<tr>
