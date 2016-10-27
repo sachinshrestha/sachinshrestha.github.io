@@ -16,11 +16,11 @@ tags: [blogging]
 
 Market segmentation<sup>1</sup> is a marketing strategy which involves dividing a broad target market into subsets of consumers, businesses, or countries that have, or are perceived to have, common needs, interests, and priorities, and then designing and implementing strategies to target them. Market segmentation strategies are generally used to identify and further define the target customers, and provide supporting data for marketing plan elements such as positioning to achieve certain marketing plan objectives. Businesses may develop product differentiation strategies, or an undifferentiated approach, involving specific products or product lines depending on the specific demand and attributes of the target segment.
 
-In this project, I will analyse the data from an ariline's frequent flyer program to group it's customers into different market segments. In particular, I will use a <i>clustering algorithm</i> to segment the airline's market into different clusters.
+In this project, I will analyse data from an ariline's frequent flyer program to group it's customers into different market segments. In particular, I will use <i>clustering algorithm</i> to segment the airline's market into different clusters.
 
-I have taken the data for this project from <i>www.dataminingbook.com</i>.
+The data is sourced from  <i>www.dataminingbook.com</i>.
 
-The <i>airlines</i> dataframe used for this project contains 7 variables. All of the 7 variables are integers. The variables are shown in the table below.
+The <i>airlines</i> dataframe contains 7 variables all of which are integers. The variables and their description are shown in the following table.
 
 <table border="1" style="background-color:#FFFFCC;border-collapse:collapse;border:1px;color:#000000;width:100%" cellpadding="5" cellspacing="3">
 	<tr>
@@ -68,13 +68,13 @@ The <i>airlines</i> dataframe used for this project contains 7 variables. All of
 
 The details of the modelling process and the R code to this project is avaiable <a href = "http://sachinshrestha.github.io/frequentFlyerCode/"> here</a>. 
 
-The results from the modelling shows that the airline's customers that are members of its frequent flyer program can be segmented into five distinct clusters. Analysis of each individual cluster shows that the clusters may be described as follows: 
+Results from the model shows that the airline's customers (that are members of its frequent flyer program) can be categorised into five distinct groups. Analysis of each individual group shows that the groups may be broadly described as follows: 
 
 <ol>
 <li>Infrequent but loyal customers</li>
-<li>Customers with large amout of miles mostly from flight transactions</li>
-<li>Customers with large amout of miles mostly from non-flight transactions</li>
-<li>New customers accumulating miles from non-fligt transactions</li>
+<li>Customers with large amount of miles mostly from flight transactions</li>
+<li>Customers with large amount of miles mostly from non-flight transactions</li>
+<li>New customers accumulating miles from non-flight transactions</li>
 <li>New and infrequent customers</li>  
 </ol>
 
