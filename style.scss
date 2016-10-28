@@ -26,7 +26,6 @@ body {
 }
 
 .about{
-	font-family:'Georgia';
 	font-size: 100%;
 	line-height: 100%;	
 }
@@ -37,6 +36,7 @@ body {
 	padding: 0 10px;
 	width: 100%;
 }
+
 code {
 	font-family:Georgia;
 }
@@ -45,7 +45,6 @@ table, td, th {
 	border: 1px solid black;
 	border-collapse: collapse;
 	padding: 15px;
-	font-family:'Georgia';
 	font-size: 15px;
 }
 
@@ -59,16 +58,15 @@ tr:nth-child(even){
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family:'Georgia';
-  color: $darkerGray;
-  font-weight: bold;
+	color: $darkerGray;
+	font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
+	line-height: 1.7;
+	margin: 1em 0 15px;
+	padding: 0;
 
-  @include mobile {
-    line-height: 1.4;
+	@include mobile {
+	line-height: 1.4;
   }
 }
 
@@ -94,11 +92,11 @@ p {
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
+	color: $blue;
+	text-decoration: none;
 	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
+	&:hover, &:active {
+	color: $blue;
   }
 }
 
@@ -119,7 +117,7 @@ ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
 
-ul ul, ol ul {
+ul ul,ol ul {
   list-style-type: circle;
 }
 
@@ -141,10 +139,10 @@ sup {
 }
 
 section {
-	background-color: white;	
-	width:720px;
-    	float:center;
-    	padding:10px;
+		background-color: white;	
+		width:720px;
+		float:center;
+		padding:10px;
 }
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -167,8 +165,6 @@ section {
   background: $lightGray;
 }
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -250,7 +246,6 @@ section {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: 'Georgia';
   font-size: 18px;
 
   @include mobile {
