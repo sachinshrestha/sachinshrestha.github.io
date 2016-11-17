@@ -37,4 +37,12 @@ sitemap: false
    <br>
          Software used: Tableau
          <br><br><br>
+         
+         
+   <li><b>CRIME IN NSW - HOW SAFE IS YOUR SUBURB?</b></li>
+   <br>
+         Data Analysis performed in R
+         <br>
+         Dashboard developed in Tableau
+         <br><br><br>         
    </ol>
