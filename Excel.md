@@ -61,7 +61,7 @@ Problem: Import values for <b>Price</b> column in <b>Table 1</b> from <b>Price</
    <ul>
       <li>Follow with INDEX(): Index the <b>Price</b> column in <b>Table 2</b>.</li>
    </ul>
-   <center> <img src="{{ site.baseurl }}/images/3c.png" style="width:200x;"> </center> 
+   <center> <img src="{{ site.baseurl }}/images/3c.png" style="width:300px;"> </center> 
    
    <br>
    <ul>
