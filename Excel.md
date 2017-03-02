@@ -23,14 +23,23 @@ sitemap: false
 
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
-        Algorithm used:       
-                           <ul>
-                           <li>Clustering (Hierarchical)</li>
-                           </ul>
-         <br>
-         Programming language: R
-         <br><br>
-        Code is available <a href="http://sachinshrestha.github.io/frequentFlyerCode">here</a>.
+        Filling Empty Excel Rows with Data from the Rows Above
+ 
+•	Select the column with blank cells (Product Name column)
+•	Click Find and Select. 
+•	Choose Go To Special….
+ 
+
+
+
+
+•	Choose Blanks and OK that.
+ 
+
+•	Now push the Equals (=) key, then the Up arrow and finally, Ctrl + Enter.
+ 
+
+
          <br><br><br>
      
    </ol>
