@@ -31,12 +31,12 @@ sitemap: false
       <li>Choose <b>Go To Special…</b>.</li>
    </ul>
    <br>
-   <center> <img src="{{ site.baseurl }}/images/2b.jpg" style="width:300px;"> </center> 
+   <center> <img src="{{ site.baseurl }}/images/2b.jpg" style="width:250px;"> </center> 
    <ul>
       <li>Choose <b>Blanks</b> and OK that.</li>
    </ul>
     <br>
-   <center><img src="{{ site.baseurl }}/images/2c.jpg" style="width:450px;"></center>       
+   <center><img src="{{ site.baseurl }}/images/2c.jpg" style="width:300px;"></center>       
    <ul>
       <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
