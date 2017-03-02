@@ -50,8 +50,8 @@ sitemap: false
    <br>
 Problem: Import values for <b>Price</b> column in <b>Table 1</b> from <b>Price</b> column in <b>Table 2</b> using <b>Product ID</b> as intersecting key.
    <br>
-   <center><img src="{{ site.baseurl }}/images/3a.png" style="width:450px;"></center>       
-   
+   <center><img src="{{ site.baseurl }}/images/3a.png" style="width:500px;"></center>       
+   <br>
    <ul> 
       <li>Start with MATCH(): Match <b>Product ID</b> value in <b>Table 1</b> with <b>Product ID</b> column in <b>Table 2</b>.</li>
       <center><img src="{{ site.baseurl }}/images/3b.png" style="width:200px;"></center>       
@@ -62,9 +62,7 @@ Problem: Import values for <b>Price</b> column in <b>Table 1</b> from <b>Price</
       <li>Follow with INDEX(): Index the <b>Price</b> column in <b>Table 2</b>.</li>
    </ul>
    <center> <img src="{{ site.baseurl }}/images/3c.png" style="width:250x;"> </center> 
-   <ul>
-      <li>Follow with INDEX(): Index the RAM column in Table 2.</li>
-   </ul>
+   
    <br>
    <ul>
       <li>Final table below.</li>
