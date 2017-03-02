@@ -24,7 +24,7 @@ sitemap: false
    <br>
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
-   <center><img src="{{ site.baseurl }}/images/2a.jpg" style="width:450px;"></center>       
+   <center><img src="{{ site.baseurl }}/images/2a.jpg" style="width:400px;"></center>       
    <ul> 
       <li>Select the column with blank cells. (Product Name column)</li>
       <li>Click <b>Find and Select</b>.</li> 
@@ -41,7 +41,7 @@ sitemap: false
       <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
    <br>
-   <center><img src="{{ site.baseurl }}/images/2d.jpg" style="width:450px;"></center>       
+   <center><img src="{{ site.baseurl }}/images/2d.jpg" style="width:400px;"></center>       
    <br>
    
    <hr>
@@ -56,11 +56,11 @@ sitemap: false
       <li>Start with MATCH(): Match School Code value in Table 1 with School Code column in Table 2.</li>
    </ul>
    <br>
-   <center> <img src="{{ site.baseurl }}/images/3c.jpg" style="width:230px;"> </center> 
+   <center> <img src="{{ site.baseurl }}/images/3c.jpg" style="width:200px;"> </center> 
    <ul>
       <li>2.	Follow with INDEX(): Index the RAM column in Table 2.</li>
    </ul>
        <br>
-   <center><img src="{{ site.baseurl }}/images/3d.jpg" style="width:400px;"></center>     
+   <center><img src="{{ site.baseurl }}/images/3d.jpg" style="width:250px;"></center>     
    </ol>
 
