@@ -56,7 +56,7 @@ sitemap: false
       <li>Start with MATCH(): Match School Code value in Table 1 with School Code column in Table 2.</li>
    </ul>
    <br>
-   <center> <img src="{{ site.baseurl }}/images/3c.jpg" style="width:300px;"> </center> 
+   <center> <img src="{{ site.baseurl }}/images/3c.jpg" style="width:230px;"> </center> 
    <ul>
       <li>2.	Follow with INDEX(): Index the RAM column in Table 2.</li>
    </ul>
