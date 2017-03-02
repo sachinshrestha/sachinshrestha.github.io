@@ -1,6 +1,6 @@
 ---
 title: Excel Tips and Tricks
-permalink: /excel/
+permalink: /Excel/
 layout: page
 sitemap: false
 ---
