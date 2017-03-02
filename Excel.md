@@ -50,17 +50,17 @@ sitemap: false
    <br>
    Problem: Import values for RAM column in Table 1 from RAM column in Table 2 using School Code as intersecting key.
    <br>
-   <center><img src="{{ site.baseurl }}/images/3a.jpg" style="width:350px;">       
-   <img src="{{ site.baseurl }}/images/3b.jpg" style="width:200px;"></center>       
+   <center><img src="{{ site.baseurl }}/images/3a.png" style="width:350px;">       
+   <img src="{{ site.baseurl }}/images/3b.png" style="width:200px;"></center>       
    <ul> 
       <li>Start with MATCH(): Match School Code value in Table 1 with School Code column in Table 2.</li>
    </ul>
    <br>
-   <center> <img src="{{ site.baseurl }}/images/3c.jpg" style="width:200px;"> </center> 
+   <center> <img src="{{ site.baseurl }}/images/3c.png" style="width:200px;"> </center> 
    <ul>
       <li>Follow with INDEX(): Index the RAM column in Table 2.</li>
    </ul>
        <br>
-   <center><img src="{{ site.baseurl }}/images/3d.jpg" style="width:300px;"></center>     
+   <center><img src="{{ site.baseurl }}/images/3d.png" style="width:300px;"></center>     
    </ol>
 
