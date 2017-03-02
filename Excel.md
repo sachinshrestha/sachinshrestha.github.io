@@ -26,18 +26,18 @@ sitemap: false
    <center>![an image alt text]({{ site.baseurl }}/images/2a.jpg)</center>       
    <ul> 
       <li>Select the column with blank cells. (Product Name column)</li>
-      <li>Click Find and Select.</li> 
-      <li>Choose Go To Special….</li>
+      <li>Click <b>Find and Select</b>.</li> 
+      <li>Choose <b>Go To Special…</b>.</li>
    </ul>
    <br>
    <center>![an image alt text]({{ site.baseurl }}/images/2b.jpg)</center>       
    <ul>
-      <li>Choose Blanks and OK that.</li>
+      <li>Choose <b>Blanks</b> and OK that.</li>
    </ul>
     <br>
    <center>![an image alt text]({{ site.baseurl }}/images/2c.jpg)</center>       
    <ul>
-      <li>Now push the Equals (=) key, then the Up arrow and finally, Ctrl + Enter.</li>
+      <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
    </ol>
 
