@@ -23,24 +23,21 @@ sitemap: false
 
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
-        Filling Empty Excel Rows with Data from the Rows Above
- 
-•	Select the column with blank cells (Product Name column)
-•	Click Find and Select. 
-•	Choose Go To Special….
- 
-
-
-
-
-•	Choose Blanks and OK that.
- 
-
-•	Now push the Equals (=) key, then the Up arrow and finally, Ctrl + Enter.
- 
-
-
-         <br><br><br>
-     
+   <center>![an image alt text]({{ site.baseurl }}/images/2a.jpg)</center>       
+   <ul> 
+      <li>Select the column with blank cells. (Product Name column)</li>
+      <li>Click Find and Select.</li> 
+      <li>Choose Go To Special….</li>
+   </ul>
+   <br>
+   <center>![an image alt text]({{ site.baseurl }}/images/2b.jpg)</center>       
+   <ul>
+      <li>Choose Blanks and OK that.</li>
+   </ul>
+    <br>
+   <center>![an image alt text]({{ site.baseurl }}/images/2c.jpg)</center>       
+   <ul>
+      <li>Now push the Equals (=) key, then the Up arrow and finally, Ctrl + Enter.</li>
+   </ul>
    </ol>
 
