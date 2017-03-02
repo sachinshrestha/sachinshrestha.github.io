@@ -61,6 +61,6 @@ sitemap: false
       <li>2.	Follow with INDEX(): Index the RAM column in Table 2.</li>
    </ul>
        <br>
-   <center><img src="{{ site.baseurl }}/images/3d.jpg" style="width:250px;"></center>     
+   <center><img src="{{ site.baseurl }}/images/3d.jpg" style="width:300px;"></center>     
    </ol>
 
