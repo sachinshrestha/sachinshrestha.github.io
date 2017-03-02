@@ -19,8 +19,9 @@ sitemap: false
       <li>Press <b>Ctrl + D.</b></li>
    </ul>
    <center><img src="{{ site.baseurl }}/images/1c.jpg" style="width:450px;"></center>       
-   <br><br><br>
+   <br>
 <hr>
+   <br>
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
    <center><img src="{{ site.baseurl }}/images/2a.jpg" style="width:450px;"></center>       
@@ -30,7 +31,7 @@ sitemap: false
       <li>Choose <b>Go To Special…</b>.</li>
    </ul>
    <br>
-   <center> <img src="{{ site.baseurl }}/images/2b.jpg" style="width:450px;"> </center> 
+   <center> <img src="{{ site.baseurl }}/images/2b.jpg" style="width:300px;"> </center> 
    <ul>
       <li>Choose <b>Blanks</b> and OK that.</li>
    </ul>
