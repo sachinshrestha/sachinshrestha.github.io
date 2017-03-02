@@ -50,7 +50,7 @@ sitemap: false
    <br>
 Problem: Import values for <b>Price</b> column in <b>Table 1</b> from <b>Price</b> column in <b>Table 2</b> using <b>Product ID</b> as intersecting key.
    <br>
-   <center><img src="{{ site.baseurl }}/images/3a.png" style="width:500px;"></center>       
+   <img src="{{ site.baseurl }}/images/3a.png" style="width:500px;">
    <br>
    
    
