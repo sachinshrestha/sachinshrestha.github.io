@@ -60,7 +60,7 @@ sitemap: false
    <ul>
       <li>Follow with INDEX(): Index the RAM column in Table 2.</li>
    </ul>
-       <br>
-   <center><img src="{{ site.baseurl }}/images/3d.png" style="width:300px;"></center>     
+   <br>
+   <center><img src="{{ site.baseurl }}/images/3d.jpg" style="width:300px;"></center>     
    </ol>
 
