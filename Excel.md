@@ -39,5 +39,6 @@ sitemap: false
    <ul>
       <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
+   <center><img src="{{ site.baseurl }}/images/2d.jpg" style="width:300px;"></center>       
    </ol>
 
