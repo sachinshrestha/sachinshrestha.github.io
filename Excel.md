@@ -48,7 +48,7 @@ sitemap: false
    <br>
    <li><b>INDEX() and MATCH()</b></li>
    <br>
-   Problem: Import values for RAM column in Table 1 from RAM column in Table 2 using School Code as intersecting key.
+   Problem: Import values for aa column in Table 1 from RAM column in Table 2 using School Code as intersecting key.
    <br>
    <center><img src="{{ site.baseurl }}/images/3a.png" style="width:350px;">       
    <img src="{{ site.baseurl }}/images/3b.png" style="width:200px;"></center>       
