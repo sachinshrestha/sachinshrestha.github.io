@@ -31,7 +31,7 @@ sitemap: false
       <li>Choose <b>Go To Special…</b>.</li>
    </ul>
    <br>
-   <center> <img src="{{ site.baseurl }}/images/2b.jpg" style="width:250px;"> </center> 
+   <center> <img src="{{ site.baseurl }}/images/2b.jpg" style="width:200px;"> </center> 
    <ul>
       <li>Choose <b>Blanks</b> and OK that.</li>
    </ul>
