@@ -58,7 +58,7 @@ sitemap: false
    <br>
    <center> <img src="{{ site.baseurl }}/images/3c.jpg" style="width:200px;"> </center> 
    <ul>
-      <li>2.	Follow with INDEX(): Index the RAM column in Table 2.</li>
+      <li>Follow with INDEX(): Index the RAM column in Table 2.</li>
    </ul>
        <br>
    <center><img src="{{ site.baseurl }}/images/3d.jpg" style="width:300px;"></center>     
