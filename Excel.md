@@ -31,7 +31,7 @@ sitemap: false
    </ul>
    <br>
    <center>![an image alt text]({{ site.baseurl }}/images/2b.jpg)</center> 
-   <img src="{{ site.baseurl }}/images/2b.jpg" style="width:300px;height:500px;">
+   <img src="{{ site.baseurl }}/images/2b.jpg" style="width:150px;height:200px;">
    <ul>
       <li>Choose <b>Blanks</b> and OK that.</li>
    </ul>
