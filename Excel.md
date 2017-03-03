@@ -21,27 +21,28 @@ sitemap: false
    <img src="{{ site.baseurl }}/images/1c.png" style="width:450px;">
    <br>
 <hr>
+   
    <br>
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
-   <center><img src="{{ site.baseurl }}/images/2a.jpg" style="width:400px;"></center>       
+   <img src="{{ site.baseurl }}/images/2a.jpg" style="width:380px;">
    <ul> 
       <li>Select the column with blank cells. (Product Name column)</li>
       <li>Click <b>Find and Select</b>.</li> 
       <li>Choose <b>Go To Special…</b>.</li>
    </ul>
    <br>
-   <center> <img src="{{ site.baseurl }}/images/2b.jpg" style="width:200px;"> </center> 
+   <img src="{{ site.baseurl }}/images/2b.jpg" style="width:200px;"> 
    <ul>
       <li>Choose <b>Blanks</b> and OK that.</li>
    </ul>
     <br>
-   <center><img src="{{ site.baseurl }}/images/2c.jpg" style="width:300px;"></center>       
+   <img src="{{ site.baseurl }}/images/2c.jpg" style="width:300px;">
    <ul>
       <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
    <br>
-   <center><img src="{{ site.baseurl }}/images/2d.jpg" style="width:400px;"></center>       
+   <img src="{{ site.baseurl }}/images/2d.jpg" style="width:380px;">
    <br>
    
    <hr>
