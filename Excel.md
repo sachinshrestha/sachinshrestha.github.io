@@ -40,6 +40,7 @@ sitemap: false
     <br>
    <img src="{{ site.baseurl }}/images/2c.jpg" style="width:280px;">
   <br>
+  <br>
   <ul>
       <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
