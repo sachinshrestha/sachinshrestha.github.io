@@ -8,17 +8,17 @@ sitemap: false
    <ol>
    <li><b>Copying Formulas from Rows above to Rows below in Excel</b></li>
    <br>
-   <center><img src="{{ site.baseurl }}/images/1a.jpg" style="width:450px;"></center>       
+   <img src="{{ site.baseurl }}/images/1a.png" style="width:450px;">
    <ul>
       <li>Select all cells in the column where the formula or value is to be copied.
           E2 = C2*D2 </li>
    </ul>
 
-   <center><img src="{{ site.baseurl }}/images/1b.jpg" style="width:450px;"></center>       
+   <img src="{{ site.baseurl }}/images/1b.png" style="width:450px;">   
    <ul>
       <li>Press <b>Ctrl + D.</b></li>
    </ul>
-   <center><img src="{{ site.baseurl }}/images/1c.jpg" style="width:450px;"></center>       
+   <img src="{{ site.baseurl }}/images/1c.png" style="width:450px;">
    <br>
 <hr>
    <br>
