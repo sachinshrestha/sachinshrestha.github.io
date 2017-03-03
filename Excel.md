@@ -26,8 +26,9 @@ sitemap: false
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
    <img src="{{ site.baseurl }}/images/2a.jpg" style="width:350px;">
-   <ul> 
-      <li>Select the column with blank cells. (Product Name column)</li>
+   <br>
+   First, to select the column with blank cells. (Product Name column)
+   <ul>     
       <li>Click <b>Find and Select</b>.</li> 
       <li>Choose <b>Go To Special…</b>.</li>
    </ul>
@@ -38,7 +39,8 @@ sitemap: false
    </ul>
     <br>
    <img src="{{ site.baseurl }}/images/2c.jpg" style="width:280px;">
-   <ul>
+  <br>
+  <ul>
       <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
    <br>
