@@ -25,7 +25,7 @@ sitemap: false
    <br>
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
-   <img src="{{ site.baseurl }}/images/2a.jpg" style="width:380px;">
+   <img src="{{ site.baseurl }}/images/2a.jpg" style="width:350px;">
    <ul> 
       <li>Select the column with blank cells. (Product Name column)</li>
       <li>Click <b>Find and Select</b>.</li> 
@@ -37,12 +37,12 @@ sitemap: false
       <li>Choose <b>Blanks</b> and OK that.</li>
    </ul>
     <br>
-   <img src="{{ site.baseurl }}/images/2c.jpg" style="width:300px;">
+   <img src="{{ site.baseurl }}/images/2c.jpg" style="width:280px;">
    <ul>
       <li>Now push the <b>Equals (=)</b> key, then the <b>Up Arrow</b> and finally, <b>Ctrl + Enter</b>.</li>
    </ul>
    <br>
-   <img src="{{ site.baseurl }}/images/2d.jpg" style="width:380px;">
+   <img src="{{ site.baseurl }}/images/2d.jpg" style="width:350px;">
    <br>
    
    <hr>
