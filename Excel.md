@@ -8,7 +8,7 @@ sitemap: false
    <ol>
    <li><b>Copying Formulas from Rows above to Rows below in Excel</b></li>
    <br>
-   <img src="{{ site.baseurl }}/images/1a.jpg" style="width:450px;">
+   <img src="{{ site.baseurl }}/images/1a.png" style="width:450px;">
    <ul>
       <li>Select all cells in the column where the formula or value is to be copied.
           E2 = C2*D2 </li>
