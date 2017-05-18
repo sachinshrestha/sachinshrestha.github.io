@@ -13,11 +13,11 @@ sitemap: false
       <br>
       <img src="{{ site.baseurl }}/images/SQL1.png" style="width:600px;"> 
       <br><br>      
-      <li>SQL Code: Two separate SELECT statements are used to create two tables that are then JOINed in a third (outer) SELECT statement</li> 
+      <li>SQL Code: Two separate SELECT statements are used to create two tables that are then JOINed in a third (outer) SELECT statement.</li> 
       <br>
       <img src="{{ site.baseurl }}/images/SQL2.png" style="width:450px;">      
       <br><br>
-      <li>Resulting table:</li>      
+      <li>Resulting table: TotalFTE is aggregated by School Code.</li>      
       <br>
       <img src="{{ site.baseurl }}/images/SQL3.png" style="width:450px;">
       <br>
