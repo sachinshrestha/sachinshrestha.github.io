@@ -6,7 +6,7 @@ sitemap: false
 ---
    <br>
    <ol>
-   <li><b>Copying Formulas from Rows above to Rows below in Excel</b></li>
+   <li><b>SELECT multiple columns in a GROUP BY (aggregation) statement</b></li>
    <br>
    <img src="{{ site.baseurl }}/images/1a.png" style="width:450px;">
    <ul>
@@ -14,7 +14,7 @@ sitemap: false
           E2 = C2*D2 </li>
    </ul>
 
-   <img src="{{ site.baseurl }}/images/1b.png" style="width:450px;">   
+   <img src="{{ site.baseurl }}/images/SQL1.png" style="width:450px;">   
    <ul>
       <li>Press <b>Ctrl + D.</b></li>
    </ul>
