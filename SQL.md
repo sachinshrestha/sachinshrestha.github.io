@@ -8,16 +8,17 @@ sitemap: false
    <ol>
    <li><b>SELECT multiple columns in a GROUP BY (aggregation) statement</b></li>
    <br>
-   <img src="{{ site.baseurl }}/images/SQL1.png" style="width:500px;">   
    <ul>
-      <li>Press <b>Ctrl + D.</b></li>
-   </ul>
-   <img src="{{ site.baseurl }}/images/SQL2.png" style="width:450px;">
-   <br>
-   <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
-   <br>
-   <img src="{{ site.baseurl }}/images/SQL3.png" style="width:450px;">
-   <br>
+      <li>Source table: Note how schools appear multiple rows.</li>
+      <img src="{{ site.baseurl }}/images/SQL1.png" style="width:600px;"> 
+      <br>      
+      <li>SQL Code: Two separate SELECT statements are used to create two tables that are then JOINed in a third (outer) SELECT statement</li>    
+      <img src="{{ site.baseurl }}/images/SQL2.png" style="width:450px;">      
+      <br>
+      <li>Resulting table:</li>      
+      <img src="{{ site.baseurl }}/images/SQL3.png" style="width:450px;">
+      <br>
+   </ul>      
    First, to select the column with blank cells. (Product Name column)
    <ul>     
       <li>Click <b>Find and Select</b>.</li> 
