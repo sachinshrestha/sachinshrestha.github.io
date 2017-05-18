@@ -12,14 +12,11 @@ sitemap: false
    <ul>
       <li>Press <b>Ctrl + D.</b></li>
    </ul>
-   <img src="{{ site.baseurl }}/images/1c.png" style="width:450px;">
-   <br>
-<hr>
-   
+   <img src="{{ site.baseurl }}/images/SQL2.png" style="width:450px;">
    <br>
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
-   <img src="{{ site.baseurl }}/images/2a.jpg" style="width:350px;">
+   <img src="{{ site.baseurl }}/images/SQL3.jpg" style="width:350px;">
    <br>
    First, to select the column with blank cells. (Product Name column)
    <ul>     
