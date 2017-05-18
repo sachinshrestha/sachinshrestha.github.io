@@ -8,12 +8,6 @@ sitemap: false
    <ol>
    <li><b>SELECT multiple columns in a GROUP BY (aggregation) statement</b></li>
    <br>
-   <img src="{{ site.baseurl }}/images/SQL1.png">
-   <ul>
-      <li>Select all cells in the column where the formula or value is to be copied.
-          E2 = C2*D2 </li>
-   </ul>
-
    <img src="{{ site.baseurl }}/images/SQL1.png" style="width:450px;">   
    <ul>
       <li>Press <b>Ctrl + D.</b></li>
