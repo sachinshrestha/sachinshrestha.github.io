@@ -8,7 +8,7 @@ sitemap: false
    <ol>
    <li><b>SELECT multiple columns in a GROUP BY (aggregation) statement</b></li>
    <br>
-   <img src="{{ site.baseurl }}/images/SQL1.png" style="width:450px;">   
+   <img src="{{ site.baseurl }}/images/SQL1.png" style="width:500px;">   
    <ul>
       <li>Press <b>Ctrl + D.</b></li>
    </ul>
@@ -16,7 +16,7 @@ sitemap: false
    <br>
    <li><b>Filling Empty Excel Rows with Data from the Rows Above</b></li>
    <br>
-   <img src="{{ site.baseurl }}/images/SQL3.jpg" style="width:350px;">
+   <img src="{{ site.baseurl }}/images/SQL3.png" style="width:450px;">
    <br>
    First, to select the column with blank cells. (Product Name column)
    <ul>     
