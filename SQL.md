@@ -40,7 +40,7 @@ Finally, use a third SELECT statement to pick the required columns from the join
 <ul>
 <li>Creating a primary key</li>
 <img src="{{ site.baseurl }}/images/SQL_PrimaryKey.png" style="width:468px"> 
-<br>
+<br><br>
 <li>Creating a foreign key</li>
 <img src="{{ site.baseurl }}/images/SQL_ForeignKey.png" style="width:641px"> 
 <br>    
