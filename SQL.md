@@ -11,6 +11,7 @@ Here's the Database Diagram for the SQL Exercises.
 <br><br>
 <ol>
 <hr>
+<br>
 <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
 <br>
 <ul>
@@ -37,12 +38,10 @@ Finally, use a third SELECT statement to pick the required columns from the join
 <li><b>Creating Primary and Foreign keys in existing tables</b></li>
 <br>
 <ul>
-<li>Create a primary key</li>
-<br>
+<li>Creating a primary key</li>
 <img src="{{ site.baseurl }}/images/SQL_PrimaryKey.png" style="width:468px"> 
 <br>
-<li>Create a foreign key</li>
-<br>
+<li>Creating a foreign key</li>
 <img src="{{ site.baseurl }}/images/SQL_ForeignKey.png" style="width:641px"> 
 <br>    
 <hr>
