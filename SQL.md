@@ -26,7 +26,7 @@ Then use the second SELECT statement to create a table with the join column and 
 Finally, use a third SELECT statement to pick the required columns from the joined table.<br>
 </li> 
 <br>
-<img src="{{ site.baseurl }}/images/SQL2.png" style="width:424px;">      
+<img src="{{ site.baseurl }}/images/SQL2.png" style="width:622px;">      
 <br><br>
 <li>Resulting table: TotalFTE is aggregated by School Code.</li>      
 <br>
