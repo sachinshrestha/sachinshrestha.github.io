@@ -6,15 +6,9 @@ date: 2015-11-25
 categories: [blogging]
 tags: [blogging]
 ---
-<center>![an image alt text]({{ site.baseurl }}/images/frequentFlyer.jpg)</center>
-
+![Frequent Flyer]({{ site.url }}/images/frequentFlyer.jpg.jpg)
 <br>
 <br>
-<div class="fb-like" data-send="true" data-width="450" data-show-faces="true"></div>
-
-<br>
-<br>
-
 Market segmentation<sup>1</sup> is a marketing strategy which involves dividing a broad target market into subsets of consumers, businesses, or countries that have, or are perceived to have, common needs, interests, and priorities, and then designing and implementing strategies to target them. Market segmentation strategies are generally used to identify and further define the target customers, and provide supporting data for marketing plan elements such as positioning to achieve certain marketing plan objectives. Businesses may develop product differentiation strategies, or an undifferentiated approach, involving specific products or product lines depending on the specific demand and attributes of the target segment.
 
 In this project, I will analyse data from an ariline's frequent flyer program to group it's customers into different market segments. In particular, I will use <i>clustering algorithm</i> to segment the airline's market into different clusters.
@@ -85,13 +79,3 @@ Here's the complete R code to the<a href = "http://sachinshrestha.github.io/freq
 
 <hr>
 <font size=2><sup>1</sup>Wikipedia</font>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
