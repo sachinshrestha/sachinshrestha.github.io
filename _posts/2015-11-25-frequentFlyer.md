@@ -78,4 +78,4 @@ Here's the complete R code to the<a href = "http://sachinshrestha.github.io/freq
 
 
 <hr>
-<sup>1</sup>Wikipedia
+<font "size= 2;"><sup>1</sup>Wikipedia
