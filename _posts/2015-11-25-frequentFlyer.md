@@ -6,7 +6,7 @@ date: 2015-11-25
 categories: [blogging]
 tags: [blogging]
 ---
-![Frequent Flyer]({{ site.url }}/images/frequentFlyer.jpg.jpg)
+![Frequent Flyer]({{ site.url }}/images/frequentFlyer.jpg)
 <br>
 <br>
 Market segmentation<sup>1</sup> is a marketing strategy which involves dividing a broad target market into subsets of consumers, businesses, or countries that have, or are perceived to have, common needs, interests, and priorities, and then designing and implementing strategies to target them. Market segmentation strategies are generally used to identify and further define the target customers, and provide supporting data for marketing plan elements such as positioning to achieve certain marketing plan objectives. Businesses may develop product differentiation strategies, or an undifferentiated approach, involving specific products or product lines depending on the specific demand and attributes of the target segment.
