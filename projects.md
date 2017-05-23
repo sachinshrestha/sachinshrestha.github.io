@@ -8,8 +8,7 @@ sitemap: false
    <ol>
    <li><b>CENSUS PROJECT</b></li>
    <br>
-      Algorithms used:</t>
-                           <ul>
+      Algorithms used:     <ul>
                            <li>CART (Classification and Regression Trees)</li>
                            <li>CART with Cross-Validation</li>
                            <li>Random Forest</li>
