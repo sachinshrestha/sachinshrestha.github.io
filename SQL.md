@@ -10,6 +10,7 @@ sitemap: false
    <img src="{{ site.baseurl }}/images/DatabaseDiagram.png" style="width:836px"> 
    <br><br>
    <ol>
+   <hr>
    <li><b>SELECT multiple columns in a GROUP BY (aggregation) statement</b></li>
    <br>
    <ul>
@@ -17,7 +18,12 @@ sitemap: false
       <br>
       <img src="{{ site.baseurl }}/images/SQL1.png" style="width:604px"> 
       <br><br>      
-      <li>SQL Code: Two separate SELECT statements are used to create two tables - one with the required columns ([School Code], [School Name], [Zone]) and the other with the aggregated column (sum([Actual Entitlement]) as TotalFTE). The two tables are then JOINed and required columns ([School Code], [School Name], [Zone], [TotalFTE]) are SELECTed from the outer SELECT statement.</li> 
+      <li>SQL Code:<br>
+Fist create two tables using two separate SELECT statements. <br> 
+Use the first SELECT statement to create a table with the join column and all non-aggregated columns.<br>
+Then use the second SELECT statement to create a table with the join column and the aggregated columns.<br>
+Finally, use a third SELECT statement to pick the required columns from the joined table.<br>
+</li> 
       <br>
       <img src="{{ site.baseurl }}/images/SQL2.png" style="width:424px;">      
       <br><br>
@@ -25,7 +31,8 @@ sitemap: false
       <br>
       <img src="{{ site.baseurl }}/images/SQL3.png" style="width:320px;">
       <br>
-   </ul>      
+   </ul>   
+   <hr>
    </ol>
    
 
