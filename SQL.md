@@ -11,7 +11,7 @@ sitemap: false
    <br><br>
    <ol>
    <hr>
-   <li><b>SELECT multiple columns in a GROUP BY (aggregation) statement</b></li>
+   <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
    <br>
    <ul>
       <li>Source table: Note how the same school appears in multiple rows.</li>
