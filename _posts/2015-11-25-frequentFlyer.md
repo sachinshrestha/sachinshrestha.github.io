@@ -7,8 +7,11 @@ categories: [blogging]
 tags: [blogging]
 ---
 ![Frequent Flyer]({{ site.url }}/images/frequentFlyer.jpg)
+
 <br>
 <br>
+<br>
+
 Market segmentation<sup>1</sup> is a marketing strategy which involves dividing a broad target market into subsets of consumers, businesses, or countries that have, or are perceived to have, common needs, interests, and priorities, and then designing and implementing strategies to target them. Market segmentation strategies are generally used to identify and further define the target customers, and provide supporting data for marketing plan elements such as positioning to achieve certain marketing plan objectives. Businesses may develop product differentiation strategies, or an undifferentiated approach, involving specific products or product lines depending on the specific demand and attributes of the target segment.
 
 In this project, I will analyse data from an ariline's frequent flyer program to group it's customers into different market segments. In particular, I will use <i>clustering algorithm</i> to segment the airline's market into different clusters.
@@ -73,9 +76,6 @@ Results from the model shows that the airline's customers (that are members of i
 <li>New and infrequent customers</li>  
 </ol>
 
-
 Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyerCode/"> Market Segmentation for Frequent Flyer Customers Project</a>.
-
-
 <hr>
 <font "size= 2;"><sup>1</sup>Wikipedia
