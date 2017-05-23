@@ -31,7 +31,16 @@ Finally, use a third SELECT statement to pick the required columns from the join
       <br>
       <img src="{{ site.baseurl }}/images/SQL3.png" style="width:320px;">
       <br>
-   </ul>   
+   </ul>  
+   <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
+   <br>
+   <ul>
+      <li>Creating Primary and Foreign keys in existing tables</li>
+      <br>
+      <img src="{{ site.baseurl }}/images/SQL_PrimaryKey.png" style="width:468px"> 
+      <br>
+      <img src="{{ site.baseurl }}/images/SQL_ForeignKey.png" style="width:641px"> 
+      <br>    
    <hr>
    </ol>
    
