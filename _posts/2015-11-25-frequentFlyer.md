@@ -74,7 +74,7 @@ Results from the model shows that the airline's customers (that are members of i
 </ol>
 
 
-Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyerCode/"> Market Segmentation for Frequent Flyer Customers Project </a>.
+Here's the complete R code to the<a href = "http://sachinshrestha.github.io/frequentFlyerCode/"> Market Segmentation for Frequent Flyer Customers Project</a>.
 
 
 <hr>
