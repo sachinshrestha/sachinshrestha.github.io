@@ -6,7 +6,7 @@ sitemap: false
 ---
    <br>
    Here's the Database Diagram for the SQL Exercises.
-   <img src="{{ site.baseurl }}/images/DatabaseDiagram.png"> 
+   <img src="{{ site.baseurl }}/images/DatabaseDiagram.png" border="1"> 
    <br>
    <ol>
    <li><b>SELECT multiple columns in a GROUP BY (aggregation) statement</b></li>
