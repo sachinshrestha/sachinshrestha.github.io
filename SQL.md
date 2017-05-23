@@ -20,10 +20,6 @@ Here's the Database Diagram for the SQL Exercises.
 <img src="{{ site.baseurl }}/images/SQL1.png" style="width:604px"> 
 <br><br>      
 <li>SQL Code:<br>
-Fist create two tables using two separate SELECT statements. <br> 
-Use the first SELECT statement to create a table with the join column and all non-aggregated columns.<br>
-Then use the second SELECT statement to create a table with the join column and the aggregated columns.<br>
-Finally, use a third SELECT statement to pick the required columns from the joined table.<br>
 </li> 
 <br>
 <img src="{{ site.baseurl }}/images/SQL2.png" style="width:622px;">      
