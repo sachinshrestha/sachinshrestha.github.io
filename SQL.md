@@ -6,6 +6,7 @@ sitemap: false
 ---
    <br>
    Here's the Database Diagram for the SQL Exercises.
+   <br>
    <img src="{{ site.baseurl }}/images/DatabaseDiagram.png" style="width:836px"> 
    <br><br>
    <ol>
