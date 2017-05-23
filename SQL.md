@@ -22,7 +22,7 @@ sitemap: false
       <br><br>
       <li>Resulting table: TotalFTE is aggregated by School Code.</li>      
       <br>
-      <img src="{{ site.baseurl }}/images/SQL3.png" style="width:360px;">
+      <img src="{{ site.baseurl }}/images/SQL3.png" style="width:320px;">
       <br>
    </ul>      
    </ol>
