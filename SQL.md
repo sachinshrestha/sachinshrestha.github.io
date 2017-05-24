@@ -26,7 +26,7 @@ Here's the Database Diagram for the SQL Exercises.
 <br><br>
 <li>Resulting table: [Total Staffing Entitlement] is aggregated by School Code.</li>      
 <br>
-<img src="{{ site.baseurl }}/images/SQL3.png" style="width:320px;">
+<img src="{{ site.baseurl }}/images/SQL3.png" style="width:418px;">
 <br><br>
 <li>The same result can be obtained by using a shorter query shown below.</li>      
 <br>
