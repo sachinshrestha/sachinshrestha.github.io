@@ -39,7 +39,6 @@ Here's the Database Diagram for the SQL Exercises.
 <br>
 </ul>  
 <hr>
-<br>
 
 
 <li><b>Creating Primary and Foreign keys in existing tables</b></li>
@@ -49,7 +48,7 @@ Here's the Database Diagram for the SQL Exercises.
 <img src="{{ site.baseurl }}/images/SQL_PrimaryKey.png" style="width:468px"> 
 <br><br>
 <li>Creating a foreign key</li>
-<img src="{{ site.baseurl }}/images/SQL_ForeignKey.png" style="width:641px"> 
+<img src="{{ site.baseurl }}/images/SQL_ForeignKey.png" style="width:595px"> 
 <br>
 </ul>
 <hr>
@@ -58,6 +57,8 @@ Here's the Database Diagram for the SQL Exercises.
 <li><b>How to SELECT column names in a table</b></li>
 <br>
 <img src="{{ site.baseurl }}/images/SQL_ColumnNames.png" style="width:405px"> 
-<br>    
+<br>  
+Result:<br>
+<img src="{{ site.baseurl }}/images/SQL_ColumnNamesResult.png" style="width:109px"> 
 <hr>
 
