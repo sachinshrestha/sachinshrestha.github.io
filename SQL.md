@@ -23,7 +23,7 @@ Here's the Database Diagram for the SQL Exercises.
 <br>
 <img src="{{ site.baseurl }}/images/SQL1.png" style="width:379px"> 
 <br><br>      
-<li>SQL Code:
+<li>SQL:
 </li> 
 <br>
 <img src="{{ site.baseurl }}/images/SQL2.png" style="width:631px;">      
@@ -55,9 +55,11 @@ Here's the Database Diagram for the SQL Exercises.
 
 <li><b>How to SELECT column names in a table</b></li>
 <br>
-<img src="{{ site.baseurl }}/images/SQL_ColumnNames.png" style="width:405px"> 
-<br>  
 <ul>
+<li>SQL:
+<img src="{{ site.baseurl }}/images/SQL_ColumnNames.png" style="width:405px"> 
+</li>
+<br>  
 <li>Result:</li>
 <br>
 <img src="{{ site.baseurl }}/images/SQL_ColumnNamesResult.png" style="width:109px"> 
