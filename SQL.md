@@ -50,7 +50,8 @@ Here's the Database Diagram for the SQL Exercises.
 <br><br>
 <li>Creating a foreign key</li>
 <img src="{{ site.baseurl }}/images/SQL_ForeignKey.png" style="width:641px"> 
-<br>    
+<br>
+</ul>
 <hr>
 
 
