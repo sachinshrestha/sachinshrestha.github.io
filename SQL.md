@@ -12,6 +12,8 @@ Here's the Database Diagram for the SQL Exercises.
 <ol>
 <hr>
 <br>
+
+
 <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
 <br>
 <ul>
@@ -38,6 +40,8 @@ Here's the Database Diagram for the SQL Exercises.
 </ul>  
 <hr>
 <br>
+
+
 <li><b>Creating Primary and Foreign keys in existing tables</b></li>
 <br>
 <ul>
@@ -50,4 +54,9 @@ Here's the Database Diagram for the SQL Exercises.
 <hr>
 
 
+<li><b>How to SELECT column names in a table</b></li>
+<br>
+<img src="{{ site.baseurl }}/images/SQL_ColumnNames.png" style="width:405px"> 
+<br>    
+<hr>
 
