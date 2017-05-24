@@ -56,7 +56,7 @@ Here's the Database Diagram for the SQL Exercises.
 <li><b>How to SELECT column names in a table</b></li>
 <br>
 <ul>
-<li>SQL:
+<li>SQL:<br>
 <img src="{{ site.baseurl }}/images/SQL_ColumnNames.png" style="width:405px"> 
 </li>
 <br>  
