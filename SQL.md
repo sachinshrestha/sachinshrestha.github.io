@@ -11,7 +11,6 @@ Here's the Database Diagram for the SQL Exercises.
 <br><br>
 <ol>
 <hr>
-<br>
 
 
 <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
@@ -58,7 +57,10 @@ Here's the Database Diagram for the SQL Exercises.
 <br>
 <img src="{{ site.baseurl }}/images/SQL_ColumnNames.png" style="width:405px"> 
 <br>  
-Result:<br>
+<ul>
+<li>Result:</li>
+</ul>
+<br>
 <img src="{{ site.baseurl }}/images/SQL_ColumnNamesResult.png" style="width:109px"> 
 <hr>
 
