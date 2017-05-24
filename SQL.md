@@ -15,21 +15,23 @@ Here's the Database Diagram for the SQL Exercises.
 <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
 <br>
 <ul>
+<li>Task: List the total Staffing Entitlements for each school.</li>
+<br>
 <li>Source table: [Staffing]
 <br>Note how the same school appears in multiple rows.</li>
 <br>
 <img src="{{ site.baseurl }}/images/SQL1.png" style="width:379px"> 
 <br><br>      
-<li>SQL Code:<br>
+<li>SQL Code:
 </li> 
 <br>
 <img src="{{ site.baseurl }}/images/SQL2.png" style="width:631px;">      
 <br><br>
-<li>Resulting table: [Total Staffing Entitlement] is aggregated by School Code.</li>      
+<li>Result: [Total Staffing Entitlement] is aggregated by School Code.</li>      
 <br>
 <img src="{{ site.baseurl }}/images/SQL3.png" style="width:418px;">
 <br><br>
-<li>The same result can be obtained by using a shorter query shown below.</li>      
+<li>Alternative: The same result can be obtained by using a shorter query shown below.</li>      
 <br>
 <img src="{{ site.baseurl }}/images/SQL4.png" style="width:574px;">
 <br>
