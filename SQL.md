@@ -59,8 +59,8 @@ Here's the Database Diagram for the SQL Exercises.
 <br>  
 <ul>
 <li>Result:</li>
-</ul>
 <br>
 <img src="{{ site.baseurl }}/images/SQL_ColumnNamesResult.png" style="width:109px"> 
+</ul>
 <hr>
 
