@@ -30,7 +30,7 @@ Here's the Database Diagram for the SQL Exercises.
 <li>SQL:
 </li> 
 <br>
-<img src="{{ site.baseurl }}/images/SQL2.png" style="width:631px;">      
+<img src="{{ site.baseurl }}/images/SQL2.png" style="width:566px;">      
 <br><br>
 <li>Result: [Total Staffing Entitlement] is aggregated by School Code.</li>      
 <br>
