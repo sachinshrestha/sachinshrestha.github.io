@@ -12,6 +12,10 @@ Here's the Database Diagram for the SQL Exercises.
 <ol>
 <hr>
 
+<img src="{{ site.baseurl }}/images/SQL_SyantxOfSelectStatement.png" style="width:531px"> 
+<br><br>
+<ol>
+<hr>
 
 <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
 <br>
