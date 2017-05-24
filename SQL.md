@@ -22,11 +22,15 @@ Here's the Database Diagram for the SQL Exercises.
 <li>SQL Code:<br>
 </li> 
 <br>
-<img src="{{ site.baseurl }}/images/SQL2.png" style="width:622px;">      
+<img src="{{ site.baseurl }}/images/SQL2.png" style="width:631px;">      
 <br><br>
 <li>Resulting table: TotalFTE is aggregated by School Code.</li>      
 <br>
 <img src="{{ site.baseurl }}/images/SQL3.png" style="width:320px;">
+<br>
+<li>The same result can be obtained by using a shorter query shown below.</li>      
+<br>
+<img src="{{ site.baseurl }}/images/SQL4.png" style="width:574px;">
 <br>
 </ul>  
 <hr>
