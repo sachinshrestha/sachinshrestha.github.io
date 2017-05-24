@@ -70,3 +70,17 @@ Here's the Database Diagram for the SQL Exercises.
 </ul>
 <hr>
 
+
+<li><b>ORDER BY vs HAVING</b></li>
+<br>
+<ul>
+<li>SQL:<br>
+<img src="{{ site.baseurl }}/images/SQL_OrderBy_vs_Having.png" style="width:556px"> 
+</li>
+<br>  
+<li>Result:</li>
+<br>
+<img src="{{ site.baseurl }}/images/SQL_OrderBy_vs_Having_Results.png" style="width:397px"> 
+</ul>
+<hr>
+
