@@ -17,7 +17,7 @@ Here's the Database Diagram for the SQL Exercises.
 <ul>
 <li>Source table: Note how the same school appears in multiple rows.</li>
 <br>
-<img src="{{ site.baseurl }}/images/SQL1.png" style="width:604px"> 
+<img src="{{ site.baseurl }}/images/SQL1.png" style="width:379px"> 
 <br><br>      
 <li>SQL Code:<br>
 </li> 
