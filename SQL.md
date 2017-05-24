@@ -15,7 +15,8 @@ Here's the Database Diagram for the SQL Exercises.
 <li><b>SELECT aggregated and non-aggregated columns from a table</b></li>
 <br>
 <ul>
-<li>Source table: Note how the same school appears in multiple rows.</li>
+<li>Source table: [Staffing]
+<br>Note how the same school appears in multiple rows.</li>
 <br>
 <img src="{{ site.baseurl }}/images/SQL1.png" style="width:379px"> 
 <br><br>      
