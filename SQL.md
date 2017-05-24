@@ -65,7 +65,6 @@ Here's the Database Diagram for the SQL Exercises.
 </li>
 <br>  
 <li>Result:</li>
-<br>
 <img src="{{ site.baseurl }}/images/SQL_ColumnNamesResult.png" style="width:109px"> 
 </ul>
 <hr>
