@@ -91,14 +91,13 @@ Here's the Database Diagram for the SQL Exercises.
 </li>
 <br>  
 <li>Result:</li>
-<br>
 <img src="{{ site.baseurl }}/images/SQL_Subqeries_GreaterThanAverageResult.png" style="width:385px"> 
+<br>
 <li>SQL:<br>
 <img src="{{ site.baseurl }}/images/SQL_Subqeries_MaxMin.png" style="width:544px"> 
 </li>
 <br>  
 <li>Result:</li>
-<br>
 <img src="{{ site.baseurl }}/images/SQL_Subqeries_MaxMinResult.png" style="width:411px"> 
 </ul>
 <hr>
