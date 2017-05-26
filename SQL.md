@@ -85,10 +85,7 @@ Here's the Database Diagram for the SQL Exercises.
 
 <li><b>SUBQUERIES</b></li>
 <br>
-<li>
-<img src="{{ site.baseurl }}/images/SQL_Subqeries.png" style="width:566px"> 
-<br>
-</li>
+<img src="{{ site.baseurl }}/images/SQL_Subqeries.png" style="width:556px"> 
 <ul>
 <li>SQL:<br>
 <img src="{{ site.baseurl }}/images/SQL_Subqeries_GreaterThanAverage.png" style="width:542px"> 
