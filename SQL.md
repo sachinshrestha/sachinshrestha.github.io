@@ -88,7 +88,8 @@ Here's the Database Diagram for the SQL Exercises.
 <img src="{{ site.baseurl }}/images/SQL_Subqeries.png" style="width:556px"> 
 <ul>
 <li>SQL:<br>
-<img src="{{ site.baseurl }}/images/SQL_Subqeries_GreaterThanAverage.png" style="width:542px"> 
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_AvgMinMax1.png" style="width:574px"> 
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_AvgMinMax2.png" style="width:562px"> 
 </li>
 <br>  
 <li>Result:</li>
