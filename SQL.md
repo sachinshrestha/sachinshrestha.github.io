@@ -94,7 +94,7 @@ Here's the Database Diagram for the SQL Exercises.
 <br>  
 <li>Result:</li>
 <img src="{{ site.baseurl }}/images/SQL_Subqeries_GreaterThanAverageResult.png" style="width:385px"> 
-<br>
+<br><br>
 <img src="{{ site.baseurl }}/images/SQL_Subqeries_MaxMinResult.png" style="width:411px"> 
 <br><br>  
 
