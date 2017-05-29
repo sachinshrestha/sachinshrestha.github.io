@@ -108,3 +108,33 @@ Here's the Database Diagram for the SQL Exercises.
 </ul>
 <hr>
 
+
+
+
+
+
+<li><b>HOW TO INSERT, UPDATE AND DELETE DATA</b></li>
+<br>
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable.png" style="width:539px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTableResult.png" style="width:633px"> 
+<ul>
+<li>SQL:<br>
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_AvgMinMax1.png" style="width:574px"> 
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_AvgMinMax2.png" style="width:562px"> 
+</li>
+<br>  
+<li>Result:</li>
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_GreaterThanAverageResult.png" style="width:385px"> 
+<br><br>
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_MaxMinResult.png" style="width:411px"> 
+<br><br>  
+
+<li>SQL:<br>
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_NotPresentInAnotherTable.png" style="width:507px"> 
+</li>
+<br>  
+<li>Result:</li>
+<img src="{{ site.baseurl }}/images/SQL_Subqeries_NotPresentInAnotherTableResult.png" style="width:365px"> 
+<br>
+</ul>
+<hr>
