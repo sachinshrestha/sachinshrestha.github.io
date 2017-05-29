@@ -113,7 +113,7 @@ Here's the Database Diagram for the SQL Exercises.
 <br>
 <ul>
 <li>SQL:<br>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable.png" style="width:530px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable.png" style="width:291px"> 
 </li>
 <br>  
 <li>Result:</li>
@@ -121,7 +121,7 @@ Here's the Database Diagram for the SQL Exercises.
 <br><br>
 
 <li>SQL:<br>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable1.png" style="width:383px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable1.png" style="width:385px"> 
 </li>
 <br>  
 <li>Result:</li>
@@ -130,7 +130,7 @@ Here's the Database Diagram for the SQL Exercises.
 
 
 <li>SQL:<br>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable2.png" style="width:462px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable2.png" style="width:477px"> 
 </li>
 <br>  
 <li>Result:</li>
