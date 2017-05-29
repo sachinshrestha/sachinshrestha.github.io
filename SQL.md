@@ -130,7 +130,7 @@ Here's the Database Diagram for the SQL Exercises.
 
 
 <li>SQL:<br>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable2.png" style="width:463px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable2.png" style="width:462px"> 
 </li>
 <br>  
 <li>Result:</li>
