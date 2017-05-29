@@ -113,19 +113,19 @@ Here's the Database Diagram for the SQL Exercises.
 <br>
 <ul>
 <li>SQL:<br>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable.png" style="width:539px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable.png" style="width:530px"> 
 </li>
 <br>  
 <li>Result:</li>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTableResult.png" style="width:633px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTableResult.png" style="width:438px"> 
 <br><br>
 
 <li>SQL:<br>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable1.png" style="width:387px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTable1.png" style="width:383px"> 
 </li>
 <br>  
 <li>Result:</li>
-<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTableResult1.png" style="width:588px"> 
+<img src="{{ site.baseurl }}/images/SQL_CreatingCopyOfTableResult1.png" style="width:409px"> 
 <br><br>
 
 
