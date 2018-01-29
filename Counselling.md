@@ -25,6 +25,6 @@ tags: [blogging]
   src="https://public.tableau.com/profile/sachin.shrestha#!/vizhome/shared/XS8PC27KK"
   scrolling="no"
   width="800px"
-  height="600px">
+  height="800px">
 </iframe>
 <hr>
