@@ -22,7 +22,7 @@ tags: [blogging]
 
 <iframe
   style="border: 0px;"
-  src="https://public.tableau.com/shared/XS8PC27KK?:toolbar=no&:display_count=yes"
+  src="https://public.tableau.com/profile/sachin.shrestha#!/vizhome/shared/XS8PC27KK"
   scrolling="no"
   width="800px"
   height="800px">
