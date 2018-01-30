@@ -24,6 +24,8 @@ tags: [blogging]
   style="border: 0px;"
   src="https://public.tableau.com/views/CounsDashboard/Dashboard2?:embed=y&:display_count=yes&publish=yes&:toolbar=no"
   scrolling="no"
+  width="600px"
+  height="1000px"
   >
 </iframe>
 <hr>
