@@ -29,5 +29,3 @@ tags: [blogging]
   >
 </iframe>
 <hr>
-
-https://public.tableau.com/views/CounsDashboard/Dashboard2?:embed=y&:display_count=yes&publish=yes&:toolbar=no
