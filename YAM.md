@@ -20,6 +20,6 @@ tags: [blogging]
   </style>
 </head>
 
-<iframe>
-https://public.tableau.com/views/YAM/YAM?:embed=y&:display_count=yes&:toolbar=no
+<iframe
+src = https://public.tableau.com/views/YAM/YAM?:embed=y&:display_count=yes&:toolbar=no>
 </iframe>
