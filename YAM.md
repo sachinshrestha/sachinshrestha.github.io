@@ -29,3 +29,4 @@ tags: [blogging]
   >
 </iframe>
 <hr>
+https://public.tableau.com/views/YAM/YAM?:embed=y&:display_count=yes&:toolbar=no
