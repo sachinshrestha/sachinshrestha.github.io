@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Counselling
+title: YAM
 published: true
-date: 2018-01-29
+date: 2018-01-31
 categories: [blogging]
 tags: [blogging]
 ---
